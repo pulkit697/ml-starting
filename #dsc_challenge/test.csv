@@ -1,0 +1,2158 @@
+car_id,model,year,transmission,mileage,fuelType,tax,mpg,engineSize
+16589, 3 Series,2016,Automatic,52125,Diesel,20,70.6,2.0
+16590, 2 Series,2016,Automatic,34090,Diesel,20,72.4,1.5
+16591, 1 Series,2016,Manual,57178,Diesel,20,72.4,1.5
+16592, X1,2017,Manual,24607,Diesel,125,60.1,2.0
+16593, 1 Series,2013,Automatic,35000,Diesel,30,64.2,2.0
+16594, 3 Series,2017,Manual,18059,Petrol,150,48.7,2.0
+16595, 1 Series,2018,Automatic,9856,Petrol,145,55.5,1.5
+16596, 3 Series,2016,Automatic,26267,Diesel,20,70.6,2.0
+16597, 4 Series,2015,Automatic,41670,Diesel,200,47.9,3.0
+16598, 1 Series,2013,Manual,67708,Diesel,0,74.3,1.6
+16599, 5 Series,2013,Automatic,73000,Diesel,125,57.6,2.0
+16600, 2 Series,2016,Manual,22500,Petrol,30,57.6,1.5
+16601, 1 Series,2018,Automatic,38527,Petrol,145,58.9,1.5
+16602, 1 Series,2017,Automatic,26660,Diesel,20,67.3,2.0
+16603, 1 Series,2016,Automatic,23377,Diesel,30,65.7,2.0
+16604, 5 Series,2016,Automatic,61425,Diesel,125,60.1,2.0
+16605, 4 Series,2016,Automatic,39891,Diesel,145,53.3,3.0
+16606, 1 Series,2015,Manual,45853,Petrol,300,35.3,3.0
+16607, X3,2017,Automatic,35428,Diesel,145,54.3,2.0
+16608, 3 Series,2017,Automatic,36178,Diesel,150,70.6,2.0
+16609, 1 Series,2015,Automatic,32694,Diesel,20,72.4,1.5
+16610, 1 Series,2017,Manual,38356,Diesel,145,83.1,1.5
+16611, 1 Series,2016,Manual,16483,Petrol,125,53.3,1.5
+16612, 1 Series,2016,Manual,14634,Petrol,125,53.3,1.5
+16613, 1 Series,2017,Manual,14232,Petrol,125,53.3,1.5
+16614, 4 Series,2016,Automatic,24085,Diesel,30,65.7,2.0
+16615, 1 Series,2014,Automatic,29626,Petrol,125,50.4,1.6
+16616, 5 Series,2017,Automatic,12727,Diesel,150,65.7,2.0
+16617, 1 Series,2018,Manual,13778,Petrol,150,53.3,1.5
+16618, 3 Series,2018,Automatic,11258,Diesel,145,64.2,2.0
+16619, 3 Series,2018,Automatic,44155,Diesel,145,60.1,2.0
+16620, X1,2018,Automatic,11070,Petrol,145,44.8,2.0
+16621, 1 Series,2016,Manual,27382,Diesel,0,83.1,1.5
+16622, 1 Series,2013,Manual,58689,Petrol,145,47.9,1.6
+16623, 5 Series,2012,Automatic,47185,Diesel,125,57.6,2.0
+16624, 1 Series,2015,Automatic,54789,Diesel,30,65.7,2.0
+16625, 3 Series,2015,Automatic,49122,Diesel,30,67.3,2.0
+16626, 3 Series,2016,Automatic,52000,Diesel,30,64.2,2.0
+16627, 3 Series,2016,Automatic,61852,Diesel,200,49.6,3.0
+16628, 4 Series,2017,Automatic,24231,Diesel,145,55.4,3.0
+16629, 2 Series,2016,Manual,14395,Petrol,145,47.1,1.5
+16630, 1 Series,2015,Manual,34271,Petrol,300,35.3,3.0
+16631, 3 Series,2014,Manual,58470,Diesel,30,62.8,2.0
+16632, X4,2016,Automatic,25465,Diesel,200,47.9,3.0
+16633, 3 Series,2016,Automatic,36584,Diesel,30,62.8,2.0
+16634, 4 Series,2017,Automatic,32632,Diesel,125,58.9,2.0
+16635, 3 Series,2019,Manual,13648,Diesel,145,62.8,2.0
+16636, 3 Series,2015,Manual,33021,Diesel,125,60.1,2.0
+16637, X5,2016,Automatic,20851,Diesel,200,47.1,3.0
+16638, X3,2016,Automatic,31955,Diesel,150,54.3,2.0
+16639, 3 Series,2017,Manual,14358,Petrol,150,48.7,2.0
+16640, 4 Series,2017,Manual,21869,Petrol,150,46.3,2.0
+16641, 1 Series,2012,Manual,72300,Diesel,30,62.8,2.0
+16642, 3 Series,2014,Automatic,103000,Diesel,125,60.1,2.0
+16643, 2 Series,2017,Manual,7329,Petrol,125,52.3,1.5
+16644, 4 Series,2018,Automatic,27000,Petrol,150,48.7,2.0
+16645, 2 Series,2016,Manual,20905,Petrol,125,52.3,1.5
+16646, 1 Series,2017,Manual,29227,Petrol,125,53.3,1.5
+16647, X3,2017,Automatic,38636,Diesel,145,54.3,2.0
+16648, 4 Series,2018,Automatic,15865,Petrol,145,48.7,2.0
+16649, 1 Series,2014,Automatic,32271,Petrol,235,37.7,3.0
+16650, 2 Series,2016,Manual,6593,Diesel,20,68.9,1.5
+16651, 1 Series,2015,Manual,15113,Diesel,20,72.4,1.5
+16652, 3 Series,2016,Automatic,30284,Diesel,30,65.7,2.0
+16653, 5 Series,2017,Automatic,38002,Diesel,145,60.1,2.0
+16654, 4 Series,2017,Automatic,19708,Diesel,145,65.7,2.0
+16655, 6 Series,2017,Automatic,23954,Petrol,260,36.7,3.0
+16656, 5 Series,2016,Automatic,32868,Diesel,125,60.1,2.0
+16657, 3 Series,2018,Manual,45344,Diesel,145,64.2,2.0
+16658, 3 Series,2018,Automatic,17932,Diesel,145,64.2,2.0
+16659, 1 Series,2019,Automatic,12839,Diesel,145,70.6,2.0
+16660, 1 Series,2019,Automatic,9119,Petrol,150,38.7,1.5
+16661, 4 Series,2016,Manual,33650,Petrol,160,44.8,2.0
+16662, 1 Series,2001,Manual,22633,Petrol,125,53.3,0.0
+16663, 1 Series,2016,Manual,30445,Petrol,125,53.3,1.5
+16664, 1 Series,2017,Manual,30521,Diesel,145,68.9,0.0
+16665, 4 Series,2017,Manual,36163,Diesel,145,62.8,2.0
+16666, 3 Series,2018,Automatic,23611,Diesel,150,64.2,0.0
+16667, X3,2011,Automatic,76000,Diesel,165,50.4,2.0
+16668, 3 Series,2016,Automatic,65000,Diesel,125,57.6,2.0
+16669, 4 Series,2016,Manual,43480,Diesel,30,62.8,2.0
+16670, 3 Series,2018,Automatic,27725,Diesel,145,64.2,2.0
+16671, 3 Series,2015,Automatic,16255,Diesel,30,65.7,2.0
+16672, 1 Series,2016,Manual,34683,Diesel,0,83.1,1.5
+16673, 3 Series,2018,Automatic,24716,Diesel,150,64.2,0.0
+16674, 1 Series,2016,Manual,36948,Diesel,30,62.8,2.0
+16675, 1 Series,2016,Manual,24528,Diesel,20,68.9,0.0
+16676, M4,2015,Semi-Auto,40000,Petrol,305,34.0,3.0
+16677, 2 Series,2017,Manual,19029,Petrol,150,52.3,1.5
+16678, 2 Series,2017,Automatic,25975,Petrol,150,53.3,1.5
+16679, 1 Series,2016,Manual,11734,Petrol,125,53.3,1.5
+16680, X1,2016,Manual,13449,Diesel,20,68.9,2.0
+16681, 1 Series,2017,Manual,40000,Diesel,20,72.4,1.5
+16682, 2 Series,2019,Automatic,13414,Petrol,150,50.4,1.5
+16683, 3 Series,2016,Automatic,26114,Diesel,145,53.3,3.0
+16684, 4 Series,2015,Automatic,49450,Diesel,20,62.8,2.0
+16685, 1 Series,2018,Manual,2901,Petrol,145,37.7,1.5
+16686, 3 Series,2016,Manual,19401,Diesel,30,67.3,2.0
+16687, 3 Series,2017,Automatic,19345,Diesel,150,64.2,2.0
+16688, 1 Series,2017,Manual,24104,Petrol,125,53.3,1.5
+16689, 3 Series,2016,Automatic,24585,Diesel,145,56.5,3.0
+16690, 1 Series,2016,Manual,30856,Diesel,20,68.9,2.0
+16691, 3 Series,2018,Automatic,40151,Diesel,145,67.3,2.0
+16692, 3 Series,2018,Automatic,28918,Diesel,145,64.2,2.0
+16693, 1 Series,2018,Manual,36469,Diesel,150,50.4,1.5
+16694, 2 Series,2018,Automatic,20000,Petrol,150,50.4,1.5
+16695, 5 Series,2019,Automatic,13000,Diesel,145,65.7,2.0
+16696, 1 Series,2019,Automatic,11961,Diesel,145,47.9,1.5
+16697, 1 Series,2015,Automatic,39141,Diesel,30,65.7,2.0
+16698, 1 Series,2014,Manual,10503,Petrol,145,50.4,1.6
+16699, 1 Series,2019,Manual,30372,Petrol,145,53.3,1.5
+16700, 2 Series,2016,Automatic,17097,Diesel,20,68.9,0.0
+16701, 1 Series,2017,Automatic,17392,Petrol,30,55.5,1.5
+16702, 3 Series,2018,Manual,27692,Diesel,145,68.9,2.0
+16703, X1,2015,Automatic,27460,Diesel,125,57.6,2.0
+16704, 2 Series,2017,Automatic,33000,Diesel,145,65.7,2.0
+16705, 3 Series,2017,Automatic,48704,Petrol,125,51.4,2.0
+16706, X1,2017,Manual,27473,Diesel,125,58.9,2.0
+16707, 2 Series,2017,Manual,22397,Petrol,125,52.3,1.5
+16708, 1 Series,2018,Automatic,16313,Petrol,145,55.5,1.5
+16709, X2,2018,Automatic,6471,Diesel,145,52.3,2.0
+16710, 3 Series,2017,Automatic,50000,Other,0,134.5,2.0
+16711, 3 Series,2015,Manual,17620,Petrol,265,36.7,3.0
+16712, 1 Series,2016,Automatic,28451,Petrol,240,37.7,3.0
+16713, 1 Series,2017,Automatic,22396,Petrol,145,54.3,1.5
+16714, 3 Series,2016,Automatic,38480,Hybrid,0,148.7,2.0
+16715, 3 Series,2016,Automatic,42298,Diesel,125,60.1,2.0
+16716, 3 Series,2015,Automatic,33452,Diesel,30,64.2,2.0
+16717, X1,2016,Manual,32313,Diesel,20,68.9,2.0
+16718, 1 Series,2018,Automatic,35742,Petrol,145,58.9,1.5
+16719, 3 Series,2017,Manual,27779,Petrol,150,48.7,2.0
+16720, X1,2017,Manual,18000,Diesel,20,68.9,2.0
+16721, 2 Series,2017,Automatic,49264,Diesel,150,62.8,2.0
+16722, 1 Series,2015,Manual,37391,Diesel,30,65.7,2.0
+16723, 3 Series,2016,Automatic,52880,Hybrid,0,134.5,2.0
+16724, 3 Series,2016,Manual,32759,Diesel,20,72.4,2.0
+16725, 1 Series,2015,Automatic,31141,Diesel,30,64.2,2.0
+16726, 5 Series,2014,Automatic,55306,Diesel,125,57.6,2.0
+16727, X1,2016,Manual,41377,Diesel,125,58.9,2.0
+16728, 4 Series,2017,Automatic,23609,Diesel,125,60.1,2.0
+16729, 1 Series,2016,Manual,19732,Diesel,30,62.8,2.0
+16730, 1 Series,2017,Automatic,42159,Diesel,150,70.6,2.0
+16731, 2 Series,2017,Automatic,39370,Diesel,150,68.9,2.0
+16732, 2 Series,2017,Automatic,36729,Diesel,30,67.3,2.0
+16733, 2 Series,2016,Automatic,24146,Diesel,30,65.7,2.0
+16734, 1 Series,2019,Manual,7218,Petrol,150,52.3,1.5
+16735, X1,2017,Manual,18000,Diesel,125,58.9,2.0
+16736, 8 Series,2019,Automatic,953,Petrol,145,26.9,4.4
+16737, 4 Series,2019,Automatic,6751,Petrol,145,48.7,2.0
+16738, 3 Series,2018,Automatic,29473,Diesel,145,64.2,2.0
+16739, 1 Series,2014,Automatic,34795,Diesel,30,64.2,2.0
+16740, 3 Series,2013,Manual,49884,Petrol,145,47.9,1.6
+16741, 2 Series,2017,Automatic,36869,Petrol,145,47.9,2.0
+16742, 3 Series,2016,Automatic,31741,Diesel,20,65.7,2.0
+16743, 3 Series,2015,Automatic,42492,Diesel,145,56.5,3.0
+16744, 2 Series,2018,Manual,15621,Diesel,145,60.1,2.0
+16745, X5,2017,Automatic,23882,Diesel,145,47.1,3.0
+16746, 1 Series,2018,Automatic,20022,Diesel,150,48.7,2.0
+16747, 1 Series,2017,Automatic,23000,Petrol,205,39.8,3.0
+16748, 2 Series,2017,Automatic,8012,Petrol,150,53.3,1.5
+16749, 3 Series,2018,Automatic,17500,Petrol,150,54.3,1.5
+16750, 4 Series,2019,Automatic,5123,Petrol,145,48.7,2.0
+16751, 3 Series,2020,Automatic,2121,Diesel,145,52.3,2.0
+16752, X3,2019,Automatic,4078,Petrol,145,30.4,2.0
+16753, 4 Series,2016,Automatic,44675,Diesel,125,58.9,2.0
+16754, X5,2015,Automatic,27947,Diesel,235,42.8,3.0
+16755, 2 Series,2019,Manual,1243,Petrol,145,42.2,1.5
+16756, 2 Series,2015,Automatic,27419,Diesel,30,55.4,2.0
+16757, X1,2017,Automatic,14105,Diesel,150,60.1,2.0
+16758, X1,2017,Automatic,10048,Diesel,150,60.1,2.0
+16759, X1,2017,Automatic,43147,Diesel,145,57.6,2.0
+16760, 1 Series,2013,Manual,37012,Diesel,30,62.8,2.0
+16761, 1 Series,2018,Manual,4971,Petrol,150,52.3,1.5
+16762, 1 Series,2017,Automatic,15592,Petrol,30,55.5,1.5
+16763, 2 Series,2016,Automatic,26193,Petrol,260,37.2,3.0
+16764, 2 Series,2016,Manual,35437,Diesel,30,64.2,2.0
+16765, 1 Series,2015,Manual,48489,Diesel,30,65.7,2.0
+16766, 2 Series,2014,Manual,42947,Petrol,205,42.8,2.0
+16767, X5,2016,Automatic,17303,Diesel,205,47.9,3.0
+16768, 3 Series,2018,Automatic,42967,Petrol,150,48.7,2.0
+16769, 2 Series,2015,Automatic,29867,Diesel,30,68.9,2.0
+16770, 3 Series,2016,Automatic,32500,Diesel,30,64.2,2.0
+16771, 1 Series,2017,Automatic,23000,Diesel,30,65.7,2.0
+16772, 2 Series,2018,Automatic,10764,Petrol,145,47.9,2.0
+16773, X3,2017,Automatic,35903,Diesel,145,54.3,2.0
+16774, 1 Series,2017,Manual,42069,Diesel,20,68.9,2.0
+16775, 1 Series,2013,Manual,59824,Diesel,125,58.9,2.0
+16776, 3 Series,2014,Automatic,44900,Diesel,125,58.9,2.0
+16777, 1 Series,2014,Manual,34902,Petrol,145,50.4,1.6
+16778, 2 Series,2016,Automatic,22901,Petrol,260,37.2,3.0
+16779, 5 Series,2017,Automatic,20508,Diesel,145,56.5,3.0
+16780, 1 Series,2017,Automatic,57414,Diesel,145,68.9,1.5
+16781, 1 Series,2013,Manual,34628,Petrol,145,52.3,1.6
+16782, 4 Series,2015,Automatic,24102,Diesel,145,56.5,2.0
+16783, 3 Series,2019,Automatic,7834,Diesel,145,49.6,2.0
+16784, X4,2020,Automatic,100,Petrol,145,26.9,3.0
+16785, 3 Series,2020,Automatic,100,Diesel,145,50.4,2.0
+16786, 3 Series,2020,Automatic,13,Diesel,145,44.1,3.0
+16787, X6,2019,Automatic,15,Diesel,145,34.9,3.0
+16788, 3 Series,2016,Manual,42119,Diesel,30,67.3,2.0
+16789, 5 Series,2014,Automatic,41522,Diesel,30,62.8,2.0
+16790, 1 Series,2015,Automatic,38046,Diesel,20,67.3,2.0
+16791, 1 Series,2017,Automatic,30257,Diesel,145,68.9,2.0
+16792, X4,2018,Automatic,17878,Diesel,145,54.3,2.0
+16793, 4 Series,2016,Automatic,32837,Diesel,30,65.7,2.0
+16794, 3 Series,2015,Manual,36801,Diesel,30,61.4,2.0
+16795, X1,2016,Manual,28999,Diesel,125,58.9,2.0
+16796, 5 Series,2017,Automatic,16942,Petrol,145,48.7,2.0
+16797, 3 Series,2018,Automatic,18627,Petrol,145,47.9,2.0
+16798, 2 Series,2018,Automatic,7913,Diesel,145,56.5,1.5
+16799, 4 Series,2015,Automatic,57317,Petrol,160,44.8,2.0
+16800, i3,2015,Automatic,29465,Electric,0,470.8,1.0
+16801, X3,2018,Automatic,13034,Diesel,145,54.3,2.0
+16802, 1 Series,2017,Automatic,13905,Petrol,145,39.8,3.0
+16803, 3 Series,2014,Manual,47701,Diesel,145,55.4,2.0
+16804, 1 Series,2015,Manual,62538,Petrol,30,56.5,1.5
+16805, 4 Series,2018,Automatic,15814,Petrol,145,48.7,2.0
+16806, X1,2019,Automatic,7288,Petrol,145,39.8,2.0
+16807, Z4,2020,Automatic,1784,Petrol,150,33.2,3.0
+16808, 2 Series,2015,Manual,29400,Diesel,20,68.9,2.0
+16809, 3 Series,2019,Automatic,2993,Diesel,150,47.9,3.0
+16810, 1 Series,2018,Automatic,11885,Petrol,150,36.7,2.0
+16811, X1,2020,Manual,321,Diesel,145,50.4,2.0
+16812, 3 Series,2020,Automatic,11,Petrol,145,34.9,3.0
+16813, i8,2015,Automatic,43323,Hybrid,0,134.5,1.5
+16814, 3 Series,2014,Automatic,75083,Diesel,20,68.9,2.0
+16815, 3 Series,2015,Manual,34533,Diesel,125,60.1,2.0
+16816, 3 Series,2016,Automatic,84878,Diesel,0,74.3,2.0
+16817, 3 Series,2015,Automatic,47741,Diesel,200,49.6,3.0
+16818, 6 Series,2015,Automatic,62953,Diesel,160,51.4,3.0
+16819, 3 Series,2016,Automatic,40421,Diesel,160,51.4,3.0
+16820, 2 Series,2019,Automatic,2426,Diesel,145,47.1,2.0
+16821, 3 Series,2016,Manual,21854,Petrol,145,48.7,2.0
+16822, 2 Series,2018,Automatic,19234,Diesel,145,47.1,2.0
+16823, X3,2016,Automatic,35121,Diesel,145,54.3,2.0
+16824, 3 Series,2014,Automatic,45140,Diesel,125,57.6,3.0
+16825, 3 Series,2016,Automatic,104720,Petrol,125,51.4,1.5
+16826, 4 Series,2016,Automatic,129590,Petrol,150,48.7,2.0
+16827, 2 Series,2016,Manual,36250,Diesel,30,64.2,2.0
+16828, 3 Series,2007,Automatic,83350,Petrol,325,31.4,3.0
+16829, 3 Series,2020,Automatic,12,Petrol,145,42.2,2.0
+16830, 3 Series,2019,Automatic,11512,Diesel,145,52.3,2.0
+16831, 1 Series,2019,Automatic,5444,Diesel,145,51.4,2.0
+16832, 3 Series,2020,Automatic,10,Petrol,145,40.4,2.0
+16833, 3 Series,2018,Automatic,16986,Diesel,145,64.2,2.0
+16834, 2 Series,2016,Manual,38811,Diesel,20,68.9,1.5
+16835, 5 Series,2016,Automatic,53689,Diesel,30,62.8,2.0
+16836, 2 Series,2014,Manual,37148,Diesel,30,62.8,2.0
+16837, 1 Series,2014,Manual,36672,Diesel,30,65.7,2.0
+16838, X1,2016,Manual,30466,Diesel,20,68.9,2.0
+16839, 2 Series,2016,Automatic,68945,Diesel,20,68.9,1.5
+16840, 1 Series,2016,Manual,18706,Petrol,260,36.2,3.0
+16841, 3 Series,2012,Manual,75453,Diesel,30,62.8,2.0
+16842, 2 Series,2017,Manual,66410,Petrol,260,36.2,3.0
+16843, 5 Series,2014,Automatic,65520,Diesel,30,62.8,2.0
+16844, 3 Series,2014,Automatic,48760,Diesel,125,57.6,3.0
+16845, 1 Series,2014,Manual,102520,Diesel,30,62.8,2.0
+16846, 3 Series,2015,Automatic,107940,Diesel,145,56.5,3.0
+16847, 4 Series,2016,Automatic,117230,Diesel,30,65.7,2.0
+16848, X3,2015,Manual,105320,Diesel,160,52.3,2.0
+16849, 1 Series,2016,Manual,101980,Diesel,20,68.9,2.0
+16850, 2 Series,2015,Manual,100230,Diesel,20,68.9,2.0
+16851, 4 Series,2015,Automatic,58900,Diesel,30,65.7,2.0
+16852, 3 Series,2015,Automatic,76720,Diesel,165,51.4,3.0
+16853, 1 Series,2018,Manual,22045,Petrol,150,53.3,1.5
+16854, 3 Series,2016,Automatic,70600,Diesel,30,70.6,2.0
+16855, 3 Series,2016,Automatic,56140,Hybrid,0,148.7,2.0
+16856, 5 Series,2016,Automatic,97930,Diesel,125,60.1,2.0
+16857, 2 Series,2016,Manual,83200,Diesel,30,64.2,2.0
+16858, 3 Series,2017,Manual,23608,Petrol,150,48.7,2.0
+16859, 1 Series,2013,Manual,61040,Petrol,205,42.8,2.0
+16860, 7 Series,2006,Automatic,81000,Diesel,325,34.4,3.0
+16861, 3 Series,2009,Manual,70000,Petrol,165,47.9,2.0
+16862, 1 Series,2014,Manual,25000,Diesel,0,74.3,1.6
+16863, 3 Series,2017,Automatic,40244,Diesel,30,64.2,2.0
+16864, 1 Series,2016,Manual,54156,Diesel,30,65.7,2.0
+16865, 1 Series,2018,Manual,17613,Petrol,145,37.7,1.5
+16866, X1,2016,Manual,17531,Diesel,125,58.9,2.0
+16867, 3 Series,2017,Manual,108190,Diesel,30,62.8,2.0
+16868, 1 Series,2015,Automatic,52770,Petrol,145,48.7,1.6
+16869, 3 Series,2014,Manual,99920,Diesel,125,58.9,2.0
+16870, 3 Series,2016,Automatic,94810,Hybrid,0,134.5,2.0
+16871, 3 Series,2014,Manual,130340,Diesel,145,55.4,2.0
+16872, 5 Series,2016,Automatic,100170,Diesel,20,68.9,2.0
+16873, 3 Series,2016,Automatic,27500,Diesel,160,51.4,3.0
+16874, 3 Series,2014,Automatic,52117,Diesel,30,62.8,2.0
+16875, 3 Series,2015,Automatic,36816,Diesel,30,70.6,2.0
+16876, 3 Series,2009,Semi-Auto,110931,Diesel,160,51.4,2.0
+16877, 4 Series,2015,Manual,51611,Diesel,125,58.9,2.0
+16878, 7 Series,2014,Automatic,53329,Diesel,160,50.4,3.0
+16879, X1,2017,Automatic,35779,Diesel,145,55.4,2.0
+16880, 3 Series,2015,Manual,71915,Diesel,20,68.9,2.0
+16881, 2 Series,2017,Automatic,13750,Diesel,145,62.8,2.0
+16882, X1,2013,Manual,44013,Diesel,160,51.4,2.0
+16883, 3 Series,2015,Automatic,99530,Diesel,30,67.3,2.0
+16884, 3 Series,2016,Automatic,86060,Hybrid,0,134.5,2.0
+16885, 3 Series,2015,Manual,128850,Diesel,145,56.5,2.0
+16886, X3,2016,Manual,72070,Diesel,160,52.3,2.0
+16887, X3,2016,Automatic,81050,Diesel,150,54.3,2.0
+16888, 5 Series,2016,Manual,93240,Diesel,30,65.7,2.0
+16889, 1 Series,2015,Automatic,58620,Diesel,20,67.3,2.0
+16890, 3 Series,2010,Manual,156800,Diesel,125,58.9,2.0
+16891, 3 Series,2012,Automatic,67458,Diesel,30,62.8,2.0
+16892, 4 Series,2014,Automatic,44042,Diesel,125,57.7,2.0
+16893, X1,2012,Automatic,82570,Diesel,150,56.5,2.0
+16894, X3,2015,Automatic,77120,Diesel,150,54.3,2.0
+16895, X5,2013,Automatic,52000,Diesel,200,45.6,3.0
+16896, 3 Series,2013,Manual,52757,Diesel,30,62.8,2.0
+16897, 3 Series,2017,Automatic,24658,Hybrid,0,134.5,2.0
+16898, 5 Series,2016,Automatic,35487,Diesel,30,65.7,2.0
+16899, 2 Series,2015,Automatic,32882,Diesel,125,60.1,0.0
+16900, 2 Series,2016,Manual,21985,Petrol,160,44.1,2.0
+16901, 5 Series,2013,Automatic,73876,Diesel,145,55.4,3.0
+16902, 1 Series,2016,Manual,33546,Diesel,0,83.1,1.5
+16903, 3 Series,2013,Manual,45883,Diesel,30,62.8,2.0
+16904, 3 Series,2016,Automatic,14867,Diesel,145,56.5,3.0
+16905, 5 Series,2014,Automatic,48280,Diesel,30,62.8,2.0
+16906, 1 Series,2015,Manual,27000,Diesel,0,78.5,1.5
+16907, 5 Series,2016,Automatic,49305,Diesel,20,68.9,2.0
+16908, 5 Series,2016,Automatic,36813,Diesel,20,68.9,2.0
+16909, X1,2016,Manual,24984,Diesel,125,58.9,2.0
+16910, X5,2018,Automatic,19750,Diesel,140,47.1,3.0
+16911, 3 Series,2007,Automatic,118000,Diesel,300,38.2,3.0
+16912, 2 Series,2016,Automatic,67170,Diesel,20,72.4,1.5
+16913, 3 Series,2015,Manual,40430,Diesel,145,56.5,2.0
+16914, 5 Series,2015,Automatic,74014,Diesel,30,62.8,2.0
+16915, 3 Series,2017,Automatic,29528,Diesel,145,64.2,2.0
+16916, 3 Series,2015,Manual,40814,Diesel,20,68.9,2.0
+16917, 4 Series,2016,Automatic,60018,Diesel,160,49.6,3.0
+16918, 4 Series,2016,Manual,32157,Petrol,200,42.8,2.0
+16919, 3 Series,2018,Automatic,13590,Diesel,150,64.2,2.0
+16920, 3 Series,2018,Automatic,24240,Diesel,150,64.2,0.0
+16921, 2 Series,2015,Automatic,64888,Diesel,20,68.9,2.0
+16922, 3 Series,2016,Manual,18520,Petrol,200,43.5,2.0
+16923, 1 Series,2015,Manual,54228,Diesel,0,83.1,1.5
+16924, 1 Series,2013,Manual,58149,Diesel,0,74.3,1.6
+16925, 5 Series,2017,Automatic,5336,Hybrid,135,156.9,2.0
+16926, 4 Series,2015,Manual,32423,Diesel,145,53.3,2.0
+16927, 5 Series,2017,Automatic,21319,Diesel,145,62.8,2.0
+16928, 5 Series,2014,Automatic,20741,Diesel,30,62.8,2.0
+16929, 1 Series,2015,Automatic,69758,Diesel,125,60.1,2.0
+16930, 2 Series,2017,Manual,18234,Petrol,145,52.3,1.5
+16931, 1 Series,2016,Manual,27636,Diesel,0,83.1,1.5
+16932, 3 Series,2011,Manual,112000,Diesel,30,62.8,2.0
+16933, 5 Series,2013,Automatic,86000,Diesel,160,51.4,2.0
+16934, 1 Series,2012,Manual,93000,Diesel,30,62.8,2.0
+16935, 1 Series,2017,Automatic,29000,Petrol,205,39.8,3.0
+16936, 5 Series,2014,Automatic,92000,Diesel,125,57.6,2.0
+16937, 1 Series,2013,Manual,50000,Petrol,145,49.6,1.6
+16938, 3 Series,2017,Automatic,54962,Diesel,145,74.3,2.0
+16939, 5 Series,2016,Automatic,45036,Petrol,160,44.8,2.0
+16940, 2 Series,2016,Manual,45930,Petrol,145,48.7,1.5
+16941, X1,2016,Automatic,41571,Diesel,125,60.1,2.0
+16942, 4 Series,2016,Manual,45253,Diesel,30,67.3,2.0
+16943, 1 Series,2014,Manual,63169,Diesel,30,64.2,2.0
+16944, 3 Series,2017,Automatic,53347,Hybrid,0,148.7,2.0
+16945, 1 Series,2016,Manual,34933,Diesel,0,83.1,1.5
+16946, 1 Series,2013,Manual,48279,Petrol,145,50.4,1.6
+16947, 3 Series,2017,Automatic,52716,Diesel,145,70.6,2.0
+16948, X3,2014,Automatic,47925,Diesel,160,50.4,2.0
+16949, X3,2015,Automatic,24288,Diesel,145,54.3,2.0
+16950, 3 Series,2018,Automatic,10591,Diesel,145,67.3,2.0
+16951, 2 Series,2017,Automatic,16888,Petrol,145,51.4,1.5
+16952, 2 Series,2017,Automatic,46827,Hybrid,135,141.2,1.5
+16953, X1,2013,Automatic,33412,Diesel,160,52.3,2.0
+16954, 4 Series,2015,Automatic,33689,Diesel,20,70.6,2.0
+16955, 1 Series,2016,Manual,29752,Diesel,20,70.6,1.5
+16956, 4 Series,2014,Automatic,32463,Petrol,200,43.5,2.0
+16957, X1,2017,Manual,18097,Diesel,145,68.9,2.0
+16958, 3 Series,2016,Manual,42571,Diesel,125,58.9,2.0
+16959, 5 Series,2015,Automatic,93056,Diesel,20,68.9,2.0
+16960, 3 Series,2015,Automatic,46531,Diesel,125,61.4,2.0
+16961, 1 Series,2012,Manual,85827,Diesel,30,62.8,2.0
+16962, 1 Series,2017,Automatic,15361,Diesel,145,72.4,1.5
+16963, X5,2017,Automatic,32812,Diesel,145,47.1,3.0
+16964, 1 Series,2018,Manual,23635,Diesel,145,72.4,1.5
+16965, 5 Series,2016,Manual,51780,Diesel,125,60.1,2.0
+16966, 2 Series,2015,Manual,54050,Diesel,20,74.3,1.5
+16967, 1 Series,2016,Manual,24441,Diesel,0,78.5,1.5
+16968, 3 Series,2015,Automatic,31047,Diesel,160,51.4,3.0
+16969, 1 Series,2014,Manual,53832,Petrol,300,35.3,3.0
+16970, 2 Series,2017,Automatic,29122,Petrol,125,51.4,1.5
+16971, 1 Series,2016,Manual,58305,Diesel,0,83.1,1.5
+16972, 3 Series,2014,Manual,94347,Diesel,30,65.7,2.0
+16973, 1 Series,2018,Manual,13094,Petrol,145,37.7,1.5
+16974, 1 Series,2015,Manual,50127,Diesel,125,57.6,2.0
+16975, 3 Series,2013,Manual,74947,Diesel,30,62.8,2.0
+16976, 2 Series,2017,Manual,28180,Petrol,125,53.3,1.5
+16977, 4 Series,2016,Automatic,16955,Diesel,145,53.3,3.0
+16978, 1 Series,2018,Automatic,30400,Petrol,145,39.8,3.0
+16979, 4 Series,2016,Automatic,64997,Diesel,145,55.4,3.0
+16980, 3 Series,2013,Automatic,43425,Diesel,125,57.6,3.0
+16981, 4 Series,2016,Manual,97706,Diesel,30,62.8,2.0
+16982, 3 Series,2016,Automatic,50318,Diesel,30,67.3,2.0
+16983, 3 Series,2015,Automatic,51126,Diesel,125,57.6,2.0
+16984, 4 Series,2015,Automatic,73150,Diesel,160,50.4,3.0
+16985, 3 Series,2017,Automatic,32185,Hybrid,135,134.5,2.0
+16986, 3 Series,2015,Automatic,80739,Diesel,30,62.8,2.0
+16987, 4 Series,2017,Automatic,25328,Diesel,145,50.4,3.0
+16988, 3 Series,2015,Automatic,91969,Diesel,20,68.9,2.0
+16989, 3 Series,2013,Manual,65001,Diesel,20,68.9,2.0
+16990, 3 Series,2017,Automatic,20771,Diesel,145,64.2,2.0
+16991, 1 Series,2014,Manual,66995,Diesel,30,65.7,2.0
+16992, 5 Series,2016,Automatic,72095,Diesel,30,62.8,2.0
+16993, 5 Series,2016,Automatic,71353,Diesel,145,56.5,2.0
+16994, 1 Series,2017,Automatic,27656,Diesel,145,72.4,1.5
+16995, 1 Series,2016,Manual,15066,Diesel,0,83.1,1.5
+16996, 3 Series,2014,Automatic,65033,Diesel,160,52.3,3.0
+16997, 5 Series,2014,Automatic,30749,Diesel,125,57.6,2.0
+16998, 2 Series,2016,Automatic,35159,Petrol,260,37.2,3.0
+16999, X1,2014,Manual,26742,Diesel,160,51.4,2.0
+17000, 4 Series,2016,Manual,76280,Diesel,30,67.3,2.0
+17001, 1 Series,2012,Manual,71842,Diesel,30,62.8,2.0
+17002, 1 Series,2016,Manual,36007,Diesel,0,83.1,1.5
+17003, X5,2016,Automatic,46720,Hybrid,0,85.6,2.0
+17004, 2 Series,2016,Automatic,20937,Petrol,125,51.4,1.5
+17005, 2 Series,2016,Manual,80051,Diesel,0,74.3,1.5
+17006, 1 Series,2015,Automatic,48916,Petrol,235,37.7,3.0
+17007, 1 Series,2017,Manual,23268,Diesel,0,78.5,1.5
+17008, 1 Series,2016,Manual,32690,Diesel,0,78.5,1.5
+17009, 3 Series,2016,Automatic,63679,Hybrid,0,134.5,2.0
+17010, 5 Series,2016,Automatic,64231,Diesel,145,53.3,3.0
+17011, 2 Series,2015,Manual,89569,Diesel,30,62.8,2.0
+17012, 2 Series,2017,Automatic,18455,Hybrid,135,135.5,1.5
+17013, X1,2014,Automatic,46000,Diesel,160,52.3,2.0
+17014, 5 Series,2015,Automatic,79315,Diesel,30,62.8,2.0
+17015, 1 Series,2016,Manual,26146,Petrol,125,53.3,1.5
+17016, 1 Series,2019,Manual,7565,Petrol,145,53.3,1.5
+17017, 1 Series,2016,Manual,49782,Diesel,0,78.5,1.5
+17018, 1 Series,2014,Automatic,48343,Diesel,125,60.1,2.0
+17019, 1 Series,2015,Manual,56941,Diesel,0,83.1,1.5
+17020, 2 Series,2015,Automatic,65033,Diesel,20,68.9,2.0
+17021, 5 Series,2015,Automatic,92428,Diesel,30,62.8,2.0
+17022, 1 Series,2016,Manual,90868,Petrol,125,52.3,1.5
+17023, X3,2017,Automatic,36204,Diesel,145,54.3,2.0
+17024, 3 Series,2014,Manual,66919,Diesel,125,57.6,2.0
+17025, 4 Series,2015,Manual,50452,Diesel,30,62.8,2.0
+17026, 1 Series,2016,Manual,47325,Diesel,0,83.1,1.5
+17027, 5 Series,2015,Automatic,29269,Diesel,20,68.9,2.0
+17028, 1 Series,2016,Manual,35898,Diesel,0,83.1,1.5
+17029, 1 Series,2015,Manual,35259,Diesel,0,83.1,1.5
+17030, 2 Series,2016,Manual,11448,Petrol,145,47.1,1.5
+17031, 5 Series,2016,Automatic,28774,Diesel,30,62.8,2.0
+17032, 3 Series,2016,Automatic,31499,Diesel,145,54.3,3.0
+17033, 4 Series,2017,Automatic,56292,Diesel,145,70.6,2.0
+17034, 1 Series,2014,Automatic,17408,Diesel,20,67.3,2.0
+17035, 1 Series,2019,Manual,10844,Petrol,145,53.3,1.5
+17036, 1 Series,2016,Manual,71381,Diesel,0,78.5,1.5
+17037, 1 Series,2015,Automatic,34267,Diesel,20,70.6,2.0
+17038, 3 Series,2010,Manual,96000,Diesel,30,62.8,2.0
+17039, X1,2016,Automatic,22780,Petrol,160,44.8,2.0
+17040, X1,2016,Automatic,35421,Diesel,145,55.4,2.0
+17041, 4 Series,2014,Manual,81978,Diesel,125,60.1,2.0
+17042, 3 Series,2013,Manual,64377,Diesel,20,68.9,2.0
+17043, 3 Series,2014,Automatic,44287,Diesel,20,68.9,2.0
+17044, 6 Series,2017,Automatic,28879,Petrol,145,31.0,4.4
+17045, 3 Series,2015,Automatic,35248,Diesel,30,64.2,2.0
+17046, X5,2016,Automatic,62756,Diesel,200,47.1,3.0
+17047, 3 Series,2017,Automatic,15537,Diesel,30,64.2,2.0
+17048, X5,2018,Automatic,9691,Petrol,150,25.4,4.4
+17049, 5 Series,2019,Automatic,205,Diesel,145,65.7,2.0
+17050, 3 Series,2019,Automatic,7935,Diesel,145,48.7,2.0
+17051, 4 Series,2017,Manual,27599,Diesel,150,62.8,2.0
+17052, 5 Series,2016,Automatic,29314,Diesel,165,51.4,3.0
+17053, 2 Series,2017,Manual,19837,Petrol,150,47.1,1.5
+17054, X5,2018,Automatic,16933,Hybrid,140,85.6,2.0
+17055, X5,2020,Automatic,5000,Diesel,145,37.7,3.0
+17056, 2 Series,2019,Automatic,2231,Petrol,145,50.4,2.0
+17057, M4,2020,Automatic,10,Petrol,150,34.0,3.0
+17058, M4,2020,Automatic,10,Petrol,150,34.0,3.0
+17059, M4,2020,Automatic,10,Petrol,150,34.0,3.0
+17060, 3 Series,2016,Automatic,42102,Petrol,125,51.4,2.0
+17061, M4,2020,Automatic,10,Petrol,150,34.0,3.0
+17062, 4 Series,2017,Automatic,23910,Petrol,145,41.5,3.0
+17063, 1 Series,2019,Automatic,7559,Petrol,145,55.5,1.5
+17064, X3,2015,Automatic,21512,Diesel,145,54.3,2.0
+17065, 2 Series,2016,Manual,57417,Petrol,125,50.4,1.5
+17066, 1 Series,2013,Automatic,48491,Diesel,125,60.1,2.0
+17067, 5 Series,2012,Manual,77201,Diesel,30,62.8,2.0
+17068, 1 Series,2016,Automatic,38204,Diesel,0,78.5,1.5
+17069, 1 Series,2016,Manual,40313,Diesel,0,78.5,1.5
+17070, 1 Series,2015,Manual,48534,Diesel,20,72.4,1.5
+17071, 1 Series,2016,Manual,27681,Diesel,0,83.1,1.5
+17072, X1,2016,Manual,27795,Diesel,20,68.9,2.0
+17073, 4 Series,2018,Automatic,21770,Petrol,145,41.5,3.0
+17074, 5 Series,2018,Automatic,40820,Petrol,145,39.2,3.0
+17075, X3,2020,Automatic,5000,Diesel,145,54.3,2.0
+17076, 3 Series,2019,Automatic,4673,Diesel,145,48.7,2.0
+17077, 4 Series,2019,Automatic,5000,Diesel,145,65.7,2.0
+17078, 1 Series,2019,Automatic,3574,Petrol,145,40.4,1.5
+17079, 1 Series,2019,Automatic,6744,Petrol,145,40.4,1.5
+17080, 3 Series,2019,Automatic,5741,Diesel,145,48.7,2.0
+17081, X5,2019,Automatic,6560,Petrol,145,27.2,3.0
+17082, 6 Series,2019,Automatic,3693,Diesel,145,47.9,3.0
+17083, X5,2019,Automatic,6748,Petrol,145,27.2,3.0
+17084, 3 Series,2020,Automatic,5000,Petrol,145,34.9,3.0
+17085, M4,2020,Automatic,5000,Petrol,145,34.0,3.0
+17086, X1,2020,Manual,5000,Diesel,145,40.4,2.0
+17087, 3 Series,2016,Automatic,49477,Diesel,145,53.3,3.0
+17088, 3 Series,2017,Automatic,16730,Diesel,145,51.4,3.0
+17089, 2 Series,2016,Manual,23130,Petrol,145,47.1,1.5
+17090, 3 Series,2017,Manual,28772,Diesel,145,60.1,2.0
+17091, 1 Series,2016,Manual,41621,Diesel,30,65.7,2.0
+17092, 3 Series,2016,Automatic,32722,Hybrid,0,134.5,2.0
+17093, X3,2019,Automatic,7765,Diesel,145,54.3,2.0
+17094, 3 Series,2018,Automatic,21276,Diesel,145,56.5,3.0
+17095, X6,2019,Automatic,5000,Petrol,145,26.4,3.0
+17096, 5 Series,2017,Automatic,23500,Petrol,145,39.2,3.0
+17097, 1 Series,2016,Automatic,68949,Petrol,200,43.5,2.0
+17098, 2 Series,2016,Manual,57561,Diesel,30,67.3,1.5
+17099, 5 Series,2017,Automatic,34640,Diesel,145,60.1,3.0
+17100, 4 Series,2015,Manual,38974,Petrol,200,42.8,2.0
+17101, X1,2016,Manual,58557,Diesel,20,68.9,2.0
+17102, 1 Series,2016,Manual,17084,Diesel,0,78.5,1.5
+17103, 3 Series,2016,Automatic,23157,Hybrid,0,134.5,2.0
+17104, 3 Series,2019,Automatic,6332,Diesel,145,54.3,2.0
+17105, 1 Series,2019,Automatic,5000,Petrol,145,34.5,2.0
+17106, 1 Series,2019,Automatic,5000,Diesel,145,51.4,2.0
+17107, M4,2019,Automatic,5000,Petrol,145,34.0,3.0
+17108, M5,2019,Automatic,2684,Petrol,145,24.1,4.4
+17109, X2,2019,Automatic,9401,Diesel,145,58.9,2.0
+17110, X7,2020,Automatic,5000,Diesel,145,33.6,3.0
+17111, 1 Series,2020,Automatic,5000,Petrol,145,40.4,1.5
+17112, 3 Series,2017,Automatic,24122,Diesel,145,51.4,3.0
+17113, 1 Series,2019,Automatic,7932,Petrol,145,47.9,2.0
+17114, 1 Series,2017,Manual,10417,Petrol,145,36.2,3.0
+17115, 3 Series,2017,Automatic,16074,Diesel,145,49.6,3.0
+17116, M4,2018,Manual,9662,Petrol,145,31.0,3.0
+17117, M4,2016,Semi-Auto,27817,Petrol,305,34.0,3.0
+17118, Z4,2016,Manual,25921,Petrol,205,41.5,2.0
+17119, 3 Series,2017,Automatic,46567,Diesel,30,67.3,2.0
+17120, X1,2017,Automatic,44775,Diesel,125,57.6,2.0
+17121, 3 Series,2018,Automatic,23288,Diesel,145,51.4,3.0
+17122, X2,2019,Automatic,5599,Petrol,145,39.2,2.0
+17123, 2 Series,2020,Automatic,5000,Petrol,145,47.9,2.0
+17124, 4 Series,2016,Automatic,14613,Diesel,125,60.1,2.0
+17125, X3,2011,Automatic,29670,Diesel,165,50.4,2.0
+17126, 1 Series,2014,Automatic,25975,Petrol,145,48.7,1.6
+17127, 1 Series,2016,Manual,36681,Diesel,0,83.1,1.5
+17128, 2 Series,2016,Manual,28895,Diesel,125,60.1,2.0
+17129, 2 Series,2020,Automatic,5000,Petrol,145,36.2,2.0
+17130, X1,2016,Automatic,38635,Diesel,145,55.4,2.0
+17131, 2 Series,2020,Automatic,1221,Diesel,145,49.6,2.0
+17132, 2 Series,2017,Manual,85600,Petrol,145,55.4,1.5
+17133, 2 Series,2016,Manual,79460,Diesel,20,68.9,2.0
+17134, 3 Series,2015,Automatic,94590,Diesel,30,62.8,2.0
+17135, 1 Series,2016,Manual,20698,Diesel,0,78.5,1.5
+17136, X5,2016,Automatic,48761,Diesel,235,42.8,3.0
+17137, 2 Series,2020,Automatic,5000,Diesel,145,48.7,2.0
+17138, 2 Series,2019,Automatic,2290,Petrol,145,46.3,2.0
+17139, 3 Series,2015,Automatic,105090,Diesel,30,62.8,2.0
+17140, 5 Series,2015,Automatic,101030,Diesel,20,68.9,2.0
+17141, 3 Series,2016,Automatic,51440,Diesel,165,49.6,3.0
+17142, X1,2011,Automatic,70582,Diesel,200,45.6,2.0
+17143, X1,2012,Manual,88706,Diesel,160,51.4,2.0
+17144, 6 Series,2006,Automatic,126054,Petrol,555,29.7,3.0
+17145, 3 Series,2015,Manual,92468,Diesel,20,68.9,2.0
+17146, X3,2014,Manual,109450,Diesel,165,52.3,2.0
+17147, 5 Series,2016,Automatic,64470,Diesel,30,62.8,2.0
+17148, 2 Series,2015,Manual,71670,Diesel,20,68.9,2.0
+17149, X1,2016,Manual,110710,Diesel,125,60.1,2.0
+17150, 2 Series,2016,Automatic,83280,Diesel,30,65.7,2.0
+17151, X3,2017,Automatic,22800,Diesel,150,48.7,3.0
+17152, M4,2020,Automatic,10,Petrol,150,34.0,3.0
+17153, 1 Series,2016,Automatic,25633,Diesel,30,65.7,2.0
+17154, X1,2016,Manual,75220,Diesel,125,58.9,2.0
+17155, X3,2014,Automatic,72430,Diesel,145,54.3,2.0
+17156, 4 Series,2014,Manual,141300,Diesel,125,58.9,2.0
+17157, X3,2016,Automatic,73850,Diesel,200,47.9,3.0
+17158, X3,2016,Automatic,110390,Diesel,145,54.3,2.0
+17159, 3 Series,2016,Automatic,70250,Hybrid,0,134.5,2.0
+17160, 5 Series,2014,Automatic,103230,Diesel,125,60.1,2.0
+17161, 2 Series,2015,Manual,92920,Diesel,20,68.9,2.0
+17162, X3,2015,Automatic,126700,Diesel,150,54.3,2.0
+17163, 2 Series,2017,Automatic,88100,Hybrid,0,141.2,1.5
+17164, 5 Series,2015,Automatic,30310,Diesel,30,62.8,2.0
+17165, X1,2016,Manual,71720,Diesel,20,68.9,2.0
+17166, 1 Series,2017,Manual,72120,Diesel,20,72.4,1.5
+17167, X1,2017,Automatic,34959,Petrol,150,44.8,2.0
+17168, 3 Series,2017,Automatic,41741,Diesel,150,51.4,3.0
+17169, 3 Series,2014,Semi-Auto,64260,Diesel,165,52.3,3.0
+17170, X1,2016,Automatic,50296,Diesel,145,55.4,2.0
+17171, 6 Series,2008,Automatic,94000,Diesel,305,39.2,3.0
+17172, 3 Series,2016,Automatic,100680,Diesel,125,60.1,2.0
+17173, 4 Series,2016,Automatic,100550,Diesel,125,58.9,2.0
+17174, 3 Series,2014,Manual,103260,Diesel,125,58.9,2.0
+17175, 3 Series,2016,Manual,101930,Diesel,20,72.4,2.0
+17176, 3 Series,2014,Manual,56300,Diesel,125,58.9,2.0
+17177, X4,2014,Automatic,67210,Diesel,200,47.9,3.0
+17178, 1 Series,2017,Automatic,52810,Diesel,20,68.9,2.0
+17179, 1 Series,2016,Manual,98210,Diesel,30,65.7,2.0
+17180, 5 Series,2016,Automatic,124840,Diesel,30,62.8,2.0
+17181, 3 Series,2014,Automatic,155790,Diesel,145,54.3,3.0
+17182, 3 Series,2018,Manual,22000,Diesel,145,61.4,2.0
+17183, Z3,2002,Automatic,16500,Petrol,325,29.4,2.2
+17184, X1,2018,Automatic,2500,Petrol,150,46.3,1.5
+17185, 3 Series,2007,Manual,94000,Petrol,240,38.7,2.0
+17186, X4,2015,Automatic,51536,Diesel,200,47.9,3.0
+17187, 3 Series,2011,Manual,51000,Diesel,125,60.1,2.0
+17188, X1,2010,Manual,64000,Diesel,145,54.3,2.0
+17189, 1 Series,2009,Manual,120000,Diesel,30,62.8,2.0
+17190, 1 Series,2016,Manual,80103,Diesel,0,83.1,1.5
+17191, 3 Series,2012,Manual,41000,Petrol,200,42.8,2.0
+17192, 1 Series,2014,Manual,65106,Petrol,145,50.4,1.6
+17193, 5 Series,2014,Automatic,56000,Diesel,145,53.3,3.0
+17194, M6,2006,Semi-Auto,89000,Petrol,570,19.1,5.0
+17195, 3 Series,2016,Automatic,74000,Diesel,30,64.2,2.0
+17196, 1 Series,2015,Manual,23460,Petrol,300,35.3,3.0
+17197, 1 Series,2017,Manual,6290,Petrol,145,36.2,3.0
+17198, M3,2004,Manual,80000,Petrol,330,23.7,3.2
+17199, 1 Series,2017,Automatic,30139,Petrol,200,39.8,3.0
+17200, X5,2016,Automatic,49880,Diesel,200,47.1,3.0
+17201, X2,2019,Automatic,7893,Diesel,145,58.9,2.0
+17202, 1 Series,2019,Automatic,7488,Diesel,145,61.4,2.0
+17203, 3 Series,2017,Automatic,43000,Diesel,145,53.3,3.0
+17204, Z4,2012,Manual,47800,Petrol,200,41.5,2.0
+17205, 5 Series,2013,Automatic,45464,Diesel,125,60.1,2.0
+17206, M6,2014,Automatic,53249,Petrol,565,28.5,4.4
+17207, 5 Series,2019,Automatic,23000,Diesel,150,65.7,2.0
+17208, 3 Series,2015,Manual,48402,Diesel,30,62.8,2.0
+17209, 7 Series,2015,Automatic,65397,Diesel,160,49.6,3.0
+17210, M4,2018,Automatic,9210,Petrol,145,34.0,3.0
+17211, 3 Series,2017,Automatic,85070,Hybrid,135,134.5,2.0
+17212, X5,2015,Automatic,116130,Diesel,200,47.9,3.0
+17213, 1 Series,2006,Manual,88000,Petrol,260,37.7,1.6
+17214, 1 Series,2013,Manual,60000,Diesel,30,65.7,2.0
+17215, 3 Series,2009,Manual,80000,Petrol,160,45.6,2.0
+17216, 1 Series,2013,Manual,46057,Diesel,20,68.9,2.0
+17217, 3 Series,2012,Automatic,53333,Diesel,20,68.9,2.0
+17218, 3 Series,2015,Manual,52507,Diesel,125,57.6,2.0
+17219, 5 Series,2013,Automatic,57604,Diesel,150,55.4,3.0
+17220, 3 Series,2010,Manual,101104,Petrol,165,44.8,2.0
+17221, 1 Series,2014,Manual,77424,Diesel,30,65.7,2.0
+17222, 5 Series,2010,Automatic,85724,Diesel,200,46.3,3.0
+17223, 3 Series,2015,Automatic,83590,Diesel,30,62.8,2.0
+17224, i3,2015,Automatic,79830,Hybrid,0,470.8,0.0
+17225, 4 Series,2015,Automatic,105730,Diesel,125,58.9,2.0
+17226, 4 Series,2017,Automatic,50390,Diesel,145,65.7,2.0
+17227, 1 Series,2014,Manual,94420,Diesel,30,65.7,2.0
+17228, 5 Series,2015,Automatic,91360,Diesel,30,62.8,2.0
+17229, X1,2015,Manual,22580,Diesel,125,57.6,2.0
+17230, 3 Series,2017,Automatic,54590,Petrol,150,47.9,2.0
+17231, 5 Series,2012,Automatic,48417,Diesel,125,60.1,2.0
+17232, 3 Series,2012,Automatic,80000,Diesel,165,52.3,2.0
+17233, 1 Series,2013,Manual,62635,Diesel,30,64.2,2.0
+17234, 1 Series,2013,Manual,65000,Petrol,150,49.6,1.6
+17235, 1 Series,2013,Manual,60000,Diesel,30,65.7,1.6
+17236, 1 Series,2013,Manual,84000,Diesel,20,68.9,2.0
+17237, 3 Series,2014,Manual,70643,Diesel,30,62.8,2.0
+17238, 1 Series,2008,Manual,79000,Diesel,30,62.8,2.0
+17239, 1 Series,2014,Manual,73824,Diesel,30,65.7,2.0
+17240, 1 Series,2015,Manual,35000,Petrol,125,51.4,1.6
+17241, 3 Series,2009,Manual,70000,Petrol,165,47.9,2.0
+17242, 5 Series,2013,Manual,65000,Diesel,125,58.9,2.0
+17243, 5 Series,2011,Automatic,74000,Diesel,145,53.3,2.0
+17244, 1 Series,2012,Manual,60000,Petrol,145,49.6,1.6
+17245, 5 Series,2015,Automatic,82375,Diesel,20,68.9,2.0
+17246, 5 Series,2015,Manual,83643,Diesel,125,60.1,2.0
+17247, 3 Series,2012,Automatic,75000,Diesel,160,52.3,2.0
+17248, 4 Series,2014,Automatic,65000,Diesel,125,60.1,2.0
+17249, 3 Series,2005,Manual,55000,Diesel,160,50.4,2.0
+17250, 5 Series,2010,Manual,75000,Diesel,145,55.4,2.0
+17251, 5 Series,2014,Automatic,64221,Diesel,30,62.8,2.0
+17252, 3 Series,2013,Manual,76247,Diesel,30,61.4,2.0
+17253, 1 Series,2012,Manual,45000,Diesel,145,56.5,2.0
+17254, 3 Series,2008,Manual,130000,Petrol,155,46.3,2.0
+17255, 1 Series,2016,Manual,14668,Diesel,20,72.4,1.5
+17256, 1 Series,2018,Automatic,16475,Petrol,145,39.8,3.0
+17257, 2 Series,2016,Manual,49636,Petrol,125,53.3,1.5
+17258, 1 Series,2016,Manual,39779,Diesel,0,83.1,1.5
+17259, 6 Series,2014,Automatic,27782,Diesel,160,50.4,3.0
+17260, 4 Series,2015,Manual,44748,Diesel,145,53.3,2.0
+17261, 5 Series,2008,Automatic,61442,Petrol,260,37.7,2.5
+17262, 3 Series,2015,Manual,101215,Diesel,30,65.7,2.0
+17263, X1,2016,Manual,47000,Diesel,20,68.9,2.0
+17264, 3 Series,2012,Manual,81000,Diesel,30,62.8,2.0
+17265, 5 Series,2008,Automatic,65000,Diesel,160,50.4,2.0
+17266, 6 Series,2010,Automatic,92642,Diesel,260,40.9,3.0
+17267, X3,2013,Automatic,94853,Diesel,160,50.4,2.0
+17268, X5,2012,Automatic,110394,Diesel,300,37.7,3.0
+17269, 1 Series,2008,Manual,89241,Petrol,200,42.8,2.0
+17270, 4 Series,2016,Automatic,52070,Diesel,30,65.7,2.0
+17271, 4 Series,2015,Automatic,19887,Diesel,30,64.2,2.0
+17272, 5 Series,2013,Manual,70000,Diesel,145,55.4,2.0
+17273, 5 Series,2010,Automatic,70000,Diesel,145,54.3,2.0
+17274, 3 Series,2016,Manual,49000,Diesel,120,60.1,2.0
+17275, 1 Series,2013,Manual,70000,Diesel,0,74.3,1.6
+17276, X3,2009,Manual,70000,Diesel,195,45.6,2.0
+17277, 3 Series,2013,Manual,70000,Diesel,125,58.9,2.0
+17278, 3 Series,2012,Automatic,70000,Diesel,160,52.3,2.0
+17279, 5 Series,2018,Automatic,30972,Hybrid,135,156.9,2.0
+17280, 1 Series,2016,Manual,69647,Diesel,0,78.5,1.5
+17281, X1,2017,Automatic,25190,Petrol,145,44.8,2.0
+17282, 3 Series,2016,Automatic,33078,Hybrid,0,134.5,2.0
+17283, 5 Series,2014,Manual,127798,Diesel,125,57.6,2.0
+17284, 5 Series,2011,Automatic,85896,Diesel,165,50.4,3.0
+17285, 1 Series,2008,Manual,107407,Diesel,150,54.3,2.0
+17286, 1 Series,2005,Automatic,63547,Diesel,265,42.8,2.0
+17287, M5,2015,Automatic,28500,Petrol,565,28.5,4.4
+17288, 4 Series,2015,Manual,36781,Diesel,145,53.3,2.0
+17289, 2 Series,2016,Manual,29460,Petrol,125,50.4,1.5
+17290, 7 Series,2017,Automatic,25014,Diesel,145,57.6,3.0
+17291, X1,2016,Manual,37840,Diesel,20,68.9,2.0
+17292, 2 Series,2017,Automatic,45061,Hybrid,135,141.2,1.5
+17293, 1 Series,2018,Automatic,9945,Petrol,145,36.7,1.5
+17294, 1 Series,2017,Automatic,15887,Petrol,145,39.8,3.0
+17295, 5 Series,2017,Automatic,21728,Diesel,145,65.7,2.0
+17296, 2 Series,2018,Automatic,3924,Petrol,145,50.4,1.5
+17297, 3 Series,2018,Automatic,13138,Petrol,145,54.3,1.5
+17298, 3 Series,2015,Automatic,50713,Petrol,125,51.4,2.0
+17299, 2 Series,2016,Manual,18840,Petrol,125,52.3,1.5
+17300, 1 Series,2019,Automatic,5771,Petrol,145,55.5,1.5
+17301, 1 Series,2013,Automatic,31086,Petrol,235,37.7,3.0
+17302, 1 Series,2016,Manual,19568,Diesel,0,78.5,1.5
+17303, 1 Series,2014,Manual,53050,Petrol,300,35.3,3.0
+17304, 3 Series,2013,Manual,58223,Diesel,20,68.9,2.0
+17305, X3,2015,Automatic,39744,Diesel,145,54.3,2.0
+17306, 1 Series,2015,Manual,64716,Diesel,30,65.7,2.0
+17307, 2 Series,2016,Automatic,30857,Diesel,20,68.9,2.0
+17308, X5,2016,Automatic,52816,Diesel,160,50.4,2.0
+17309, 3 Series,2018,Automatic,29065,Diesel,145,64.2,2.0
+17310, 1 Series,2010,Manual,60000,Diesel,125,60.1,2.0
+17311, 2 Series,2016,Automatic,11576,Diesel,30,64.2,2.0
+17312, 2 Series,2015,Automatic,38902,Petrol,260,37.2,3.0
+17313, M4,2015,Automatic,35284,Petrol,300,34.0,3.0
+17314, 4 Series,2017,Automatic,26162,Diesel,145,58.9,2.0
+17315, 5 Series,2016,Automatic,41431,Diesel,160,51.4,3.0
+17316, 1 Series,2013,Automatic,21061,Petrol,145,48.7,1.6
+17317, X5,2016,Automatic,41464,Hybrid,0,85.6,2.0
+17318, 4 Series,2016,Manual,37683,Diesel,30,62.8,2.0
+17319, 2 Series,2016,Automatic,17748,Diesel,125,57.6,2.0
+17320, 4 Series,2016,Automatic,77784,Diesel,30,65.7,2.0
+17321, X4,2016,Automatic,43751,Diesel,145,54.3,2.0
+17322, 1 Series,2016,Manual,47324,Diesel,30,65.7,2.0
+17323, 1 Series,2016,Manual,36240,Diesel,0,83.1,1.5
+17324, 1 Series,2015,Automatic,38573,Diesel,20,68.9,1.5
+17325, 5 Series,2016,Automatic,33740,Diesel,30,65.7,2.0
+17326, 1 Series,2016,Manual,33149,Diesel,0,78.5,1.5
+17327, 3 Series,2014,Automatic,70796,Diesel,160,50.4,3.0
+17328, 3 Series,2016,Manual,38206,Diesel,30,64.2,2.0
+17329, 5 Series,2015,Manual,52217,Diesel,125,60.1,2.0
+17330, 3 Series,2016,Automatic,45223,Hybrid,0,134.5,2.0
+17331, 6 Series,2017,Automatic,28062,Diesel,145,48.7,3.0
+17332, 3 Series,2016,Automatic,40217,Hybrid,0,148.7,2.0
+17333, 1 Series,2013,Manual,32097,Petrol,145,50.4,1.6
+17334, 2 Series,2017,Manual,16309,Diesel,145,65.7,2.0
+17335, 1 Series,2016,Manual,46170,Diesel,20,70.6,1.5
+17336, 5 Series,2018,Automatic,23640,Hybrid,135,156.9,2.0
+17337, 3 Series,2016,Automatic,33332,Petrol,125,54.3,1.5
+17338, X1,2013,Automatic,49599,Diesel,160,52.3,2.0
+17339, 1 Series,2016,Automatic,26855,Petrol,235,37.7,3.0
+17340, 1 Series,2016,Manual,31615,Diesel,0,78.5,1.5
+17341, 1 Series,2014,Manual,63299,Diesel,20,68.9,2.0
+17342, 1 Series,2015,Manual,23905,Diesel,20,72.4,1.5
+17343, X1,2014,Manual,42023,Diesel,160,51.4,2.0
+17344, X1,2017,Automatic,60703,Diesel,145,65.7,2.0
+17345, X5,2016,Automatic,46683,Diesel,200,47.1,3.0
+17346, 2 Series,2014,Manual,61819,Diesel,30,62.8,2.0
+17347, 2 Series,2016,Manual,32878,Petrol,125,52.3,1.5
+17348, 2 Series,2017,Manual,4240,Petrol,30,55.4,1.5
+17349, 6 Series,2016,Automatic,50475,Diesel,200,49.6,3.0
+17350, X5,2016,Automatic,57146,Diesel,160,50.4,2.0
+17351, 1 Series,2017,Automatic,14597,Diesel,145,72.4,1.5
+17352, 4 Series,2017,Automatic,33711,Diesel,145,65.7,2.0
+17353, 3 Series,2016,Automatic,92300,Hybrid,0,148.7,2.0
+17354, 2 Series,2016,Automatic,17574,Petrol,125,51.4,1.5
+17355, 1 Series,2012,Manual,98000,Diesel,125,58.9,2.0
+17356, 6 Series,2005,Automatic,84000,Petrol,305,24.6,4.4
+17357, M3,2013,Semi-Auto,30500,Petrol,570,24.6,4.0
+17358, 3 Series,2001,Automatic,90000,Petrol,325,27.7,3.0
+17359, 3 Series,2016,Automatic,24500,Hybrid,0,134.5,2.0
+17360, 1 Series,2016,Manual,27199,Diesel,0,83.1,1.5
+17361, 1 Series,2012,Manual,40488,Diesel,30,62.8,2.0
+17362, 3 Series,2016,Automatic,66986,Diesel,30,65.7,2.0
+17363, 3 Series,2017,Manual,19400,Diesel,145,64.2,2.0
+17364, 3 Series,2015,Automatic,59799,Diesel,30,62.8,2.0
+17365, 3 Series,2013,Automatic,79144,Diesel,30,62.8,2.0
+17366, X4,2016,Manual,23553,Diesel,160,52.3,2.0
+17367, 1 Series,2017,Manual,19108,Petrol,145,56.5,1.5
+17368, X5,2016,Automatic,41972,Hybrid,0,85.6,2.0
+17369, 3 Series,2014,Manual,47059,Diesel,30,61.4,2.0
+17370, 5 Series,2016,Automatic,30767,Diesel,30,62.8,2.0
+17371, 5 Series,2000,Manual,99209,Petrol,265,29.4,2.0
+17372, 1 Series,2016,Manual,35417,Diesel,0,78.5,1.5
+17373, 1 Series,2014,Manual,31914,Petrol,300,35.3,3.0
+17374, 4 Series,2016,Manual,57876,Diesel,125,57.6,2.0
+17375, X5,2015,Automatic,21500,Diesel,190,47.1,3.0
+17376, 7 Series,2012,Automatic,134000,Diesel,250,41.5,3.0
+17377, X1,2013,Automatic,60665,Diesel,160,52.3,2.0
+17378, 1 Series,2015,Automatic,82876,Petrol,235,37.7,3.0
+17379, 5 Series,2013,Automatic,178987,Hybrid,190,40.4,3.0
+17380, 1 Series,2011,Manual,80183,Diesel,145,55.4,2.0
+17381, 3 Series,2010,Automatic,118000,Petrol,260,35.8,3.0
+17382, 1 Series,2017,Manual,14646,Diesel,30,65.7,2.0
+17383, 3 Series,2007,Automatic,124200,Diesel,260,40.9,2.0
+17384, X5,2012,Automatic,214000,Diesel,300,37.7,3.0
+17385, 3 Series,2009,Automatic,122144,Petrol,300,34.0,3.0
+17386, 4 Series,2016,Automatic,27203,Diesel,125,58.9,2.0
+17387, 3 Series,2011,Manual,66400,Diesel,125,58.9,2.0
+17388, X1,2016,Manual,45795,Diesel,20,68.9,2.0
+17389, 2 Series,2017,Automatic,79715,Diesel,125,60.1,2.0
+17390, 2 Series,2016,Automatic,31838,Petrol,125,51.4,1.5
+17391, 3 Series,2015,Manual,30000,Diesel,125,60.1,2.0
+17392, 5 Series,2015,Automatic,50700,Diesel,125,60.1,2.0
+17393, 3 Series,2002,Automatic,85452,Petrol,330,33.6,2.0
+17394, 1 Series,2012,Manual,92000,Petrol,145,49.6,1.6
+17395, 1 Series,2016,Automatic,62000,Petrol,235,37.7,3.0
+17396, 1 Series,2018,Manual,14287,Diesel,145,65.7,2.0
+17397, 5 Series,2016,Automatic,42803,Diesel,30,62.8,2.0
+17398, 3 Series,2017,Automatic,28091,Hybrid,135,134.5,2.0
+17399, 4 Series,2016,Automatic,60464,Diesel,30,65.7,2.0
+17400, 6 Series,2012,Automatic,27352,Diesel,160,51.4,3.0
+17401, 3 Series,2016,Automatic,68458,Hybrid,0,148.7,2.0
+17402, 1 Series,2017,Manual,16398,Diesel,20,70.6,1.5
+17403, 3 Series,2018,Automatic,32117,Diesel,145,64.2,2.0
+17404, 1 Series,2016,Manual,23407,Diesel,0,78.5,1.5
+17405, 4 Series,2017,Automatic,62111,Diesel,20,70.6,2.0
+17406, 5 Series,2016,Automatic,80823,Diesel,30,62.8,2.0
+17407, 1 Series,2017,Manual,83923,Diesel,145,83.1,1.5
+17408, 1 Series,2016,Manual,47413,Diesel,0,83.1,1.5
+17409, X1,2013,Automatic,53540,Diesel,160,52.3,2.0
+17410, 2 Series,2016,Automatic,30626,Diesel,20,72.4,1.5
+17411, 4 Series,2016,Automatic,60975,Diesel,20,70.6,2.0
+17412, 1 Series,2015,Manual,56278,Diesel,20,70.6,1.5
+17413, 2 Series,2015,Automatic,90836,Diesel,30,62.8,2.0
+17414, 4 Series,2015,Automatic,54213,Diesel,30,65.7,2.0
+17415, 2 Series,2016,Automatic,66543,Diesel,145,55.4,2.0
+17416, 2 Series,2016,Automatic,31540,Diesel,30,62.8,2.0
+17417, 5 Series,2012,Automatic,86674,Diesel,235,43.5,3.0
+17418, 2 Series,2016,Automatic,49981,Diesel,20,72.4,1.5
+17419, 4 Series,2017,Automatic,30949,Diesel,30,65.7,2.0
+17420, 1 Series,2016,Manual,40911,Diesel,20,70.6,1.5
+17421, 1 Series,2016,Manual,20467,Diesel,20,70.6,1.5
+17422, 4 Series,2018,Manual,12086,Petrol,145,46.3,2.0
+17423, 3 Series,2016,Automatic,43527,Diesel,125,60.1,2.0
+17424, 1 Series,2017,Automatic,12952,Petrol,200,39.8,3.0
+17425, 2 Series,2016,Manual,18933,Petrol,125,52.3,1.5
+17426, 3 Series,2015,Manual,65412,Diesel,20,68.9,2.0
+17427, 7 Series,2015,Automatic,65218,Diesel,145,54.3,3.0
+17428, X4,2016,Automatic,52135,Diesel,145,54.3,2.0
+17429, 2 Series,2016,Manual,17994,Petrol,125,52.3,1.5
+17430, 4 Series,2016,Automatic,54055,Diesel,125,60.1,2.0
+17431, 4 Series,2016,Manual,41993,Diesel,30,62.8,2.0
+17432, X5,2016,Automatic,26185,Hybrid,0,85.6,2.0
+17433, 3 Series,2018,Automatic,15189,Diesel,145,67.3,2.0
+17434, 4 Series,2017,Automatic,29383,Diesel,145,65.7,2.0
+17435, 1 Series,2016,Manual,46620,Diesel,0,83.1,1.5
+17436, Z4,2016,Manual,20266,Petrol,200,41.5,2.0
+17437, 2 Series,2015,Manual,19893,Diesel,30,65.7,2.0
+17438, 4 Series,2015,Automatic,80614,Diesel,125,58.9,2.0
+17439, 3 Series,2017,Manual,27890,Diesel,145,57.6,2.0
+17440, 4 Series,2017,Automatic,26807,Diesel,125,60.1,2.0
+17441, 3 Series,2013,Automatic,35688,Diesel,125,58.9,2.0
+17442, 1 Series,2016,Manual,31095,Diesel,0,83.1,1.5
+17443, 3 Series,2016,Automatic,29789,Hybrid,0,134.5,2.0
+17444, 5 Series,2016,Automatic,31228,Diesel,30,62.8,2.0
+17445, X1,2017,Automatic,32236,Diesel,145,65.7,2.0
+17446, 2 Series,2016,Manual,34608,Petrol,200,42.8,2.0
+17447, 3 Series,2016,Automatic,86128,Diesel,30,65.7,2.0
+17448, 1 Series,2016,Manual,37087,Diesel,0,83.1,1.5
+17449, 3 Series,2016,Manual,74020,Diesel,30,64.2,2.0
+17450, 2 Series,2016,Manual,17586,Petrol,125,52.3,1.5
+17451, X1,2017,Automatic,41326,Diesel,125,60.1,2.0
+17452, X1,2016,Manual,37032,Diesel,125,60.1,2.0
+17453, X4,2015,Automatic,95408,Diesel,145,54.3,2.0
+17454, 2 Series,2017,Manual,35732,Diesel,145,64.2,2.0
+17455, 3 Series,2016,Manual,23323,Diesel,30,62.8,2.0
+17456, 3 Series,2016,Automatic,30333,Hybrid,0,134.5,2.0
+17457, X1,2016,Automatic,30405,Diesel,125,57.6,2.0
+17458, 3 Series,2016,Automatic,53867,Hybrid,0,134.5,2.0
+17459, 4 Series,2015,Automatic,90734,Diesel,30,65.7,2.0
+17460, 6 Series,2013,Automatic,62068,Diesel,160,49.6,3.0
+17461, 3 Series,2012,Automatic,62616,Diesel,30,62.8,2.0
+17462, 2 Series,2016,Manual,97147,Diesel,20,68.9,1.5
+17463, 3 Series,2016,Automatic,91855,Diesel,0,74.3,2.0
+17464, 3 Series,2012,Automatic,75840,Diesel,145,53.3,2.0
+17465, 3 Series,2017,Automatic,38070,Diesel,145,64.2,2.0
+17466, 1 Series,2016,Manual,27545,Diesel,30,65.7,2.0
+17467, 2 Series,2015,Automatic,41704,Diesel,30,61.4,2.0
+17468, 2 Series,2014,Automatic,45868,Petrol,145,47.1,2.0
+17469, 1 Series,2016,Manual,21964,Diesel,0,78.5,1.5
+17470, 1 Series,2013,Manual,61295,Diesel,0,74.3,1.6
+17471, 5 Series,2017,Automatic,30990,Diesel,145,62.8,2.0
+17472, 2 Series,2014,Automatic,72203,Petrol,260,37.2,3.0
+17473, 1 Series,2017,Manual,19300,Diesel,20,70.6,1.5
+17474, 3 Series,2016,Automatic,25431,Hybrid,0,134.5,2.0
+17475, 5 Series,2016,Automatic,37786,Diesel,30,62.8,2.0
+17476, X1,2016,Automatic,44890,Diesel,125,57.6,2.0
+17477, 2 Series,2016,Automatic,24479,Petrol,125,53.3,1.5
+17478, 5 Series,2016,Automatic,48863,Diesel,30,62.8,2.0
+17479, 1 Series,2016,Manual,26231,Diesel,0,78.5,1.5
+17480, 3 Series,2016,Automatic,30894,Diesel,30,64.2,2.0
+17481, 1 Series,2016,Manual,25281,Petrol,125,53.3,1.5
+17482, 1 Series,2015,Manual,60761,Diesel,30,65.7,2.0
+17483, 3 Series,2015,Automatic,27153,Diesel,30,62.8,2.0
+17484, 1 Series,2017,Automatic,72814,Petrol,125,54.3,1.5
+17485, 2 Series,2016,Manual,13267,Petrol,125,52.3,1.5
+17486, 1 Series,2014,Manual,42994,Petrol,145,50.4,1.6
+17487, X3,2017,Automatic,33610,Diesel,145,54.3,2.0
+17488, 3 Series,2014,Automatic,54842,Diesel,30,62.8,2.0
+17489, X4,2016,Automatic,28466,Diesel,200,47.9,3.0
+17490, X5,2016,Automatic,23747,Hybrid,0,85.6,2.0
+17491, X5,2016,Automatic,31903,Hybrid,0,85.6,2.0
+17492, 2 Series,2016,Automatic,48841,Petrol,145,46.3,2.0
+17493, X4,2017,Automatic,35351,Diesel,200,47.1,3.0
+17494, 5 Series,2016,Automatic,79234,Diesel,20,67.3,2.0
+17495, 5 Series,2016,Automatic,22312,Diesel,160,51.4,3.0
+17496, 5 Series,2017,Automatic,37401,Diesel,145,68.9,2.0
+17497, 1 Series,2017,Manual,62495,Diesel,145,78.5,1.5
+17498, 5 Series,2016,Automatic,30754,Diesel,30,62.8,2.0
+17499, 3 Series,2016,Manual,88192,Diesel,30,65.7,2.0
+17500, X5,2016,Automatic,59154,Diesel,200,47.1,3.0
+17501, 3 Series,2012,Manual,36529,Diesel,30,61.4,2.0
+17502, X1,2014,Automatic,74012,Diesel,160,52.3,2.0
+17503, X5,2017,Automatic,23646,Diesel,145,47.1,3.0
+17504, 1 Series,2017,Automatic,24482,Petrol,200,39.8,3.0
+17505, 3 Series,2013,Manual,54374,Diesel,125,57.6,2.0
+17506, M3,2013,Automatic,58125,Petrol,570,25.2,4.0
+17507, 3 Series,2016,Automatic,62816,Hybrid,0,148.7,2.0
+17508, 3 Series,2016,Automatic,95217,Diesel,0,74.3,2.0
+17509, 5 Series,2016,Automatic,14005,Diesel,30,62.8,2.0
+17510, 2 Series,2016,Manual,68848,Diesel,0,74.3,1.5
+17511, 4 Series,2016,Manual,24280,Diesel,30,62.8,2.0
+17512, 4 Series,2016,Manual,51194,Diesel,30,62.8,2.0
+17513, 3 Series,2014,Automatic,51062,Diesel,125,58.9,2.0
+17514, X3,2012,Automatic,73701,Diesel,160,50.4,2.0
+17515, 3 Series,2018,Automatic,25127,Diesel,145,62.8,2.0
+17516, 5 Series,2014,Automatic,34758,Diesel,125,57.6,2.0
+17517, 1 Series,2016,Automatic,30925,Diesel,20,68.9,2.0
+17518, 1 Series,2019,Automatic,12212,Petrol,145,55.5,1.5
+17519, 1 Series,2007,Manual,167000,Diesel,125,57.6,2.0
+17520, Z3,1999,Manual,74282,Petrol,245,35.3,1.9
+17521, 3 Series,2015,Manual,98819,Diesel,20,72.4,2.0
+17522, 3 Series,2017,Automatic,14500,Hybrid,0,134.5,2.0
+17523, 1 Series,2014,Manual,43248,Diesel,20,68.9,2.0
+17524, 2 Series,2016,Automatic,87743,Diesel,20,72.4,1.5
+17525, Z3,1999,Manual,51949,Petrol,255,35.3,1.9
+17526, 1 Series,2012,Manual,63635,Diesel,30,62.8,2.0
+17527, 1 Series,2017,Manual,46147,Diesel,0,83.1,1.5
+17528, 3 Series,2016,Automatic,50310,Diesel,30,64.2,2.0
+17529, 1 Series,2016,Manual,31847,Diesel,0,78.5,1.5
+17530, X2,2018,Automatic,11941,Diesel,145,58.9,2.0
+17531, 1 Series,2016,Manual,46035,Diesel,20,70.6,1.5
+17532, 3 Series,2016,Automatic,72280,Diesel,20,70.6,2.0
+17533, 3 Series,2016,Automatic,23110,Diesel,125,57.6,2.0
+17534, 5 Series,2016,Automatic,72924,Diesel,20,68.9,2.0
+17535, 5 Series,2019,Automatic,21101,Petrol,150,50.4,2.0
+17536, 4 Series,2016,Manual,14000,Petrol,160,46.3,2.0
+17537, 3 Series,2017,Automatic,50000,Other,135,148.7,2.0
+17538, 3 Series,2016,Automatic,33158,Diesel,30,67.3,2.0
+17539, 3 Series,2013,Manual,49720,Diesel,30,61.4,2.0
+17540, X3,2014,Automatic,77129,Diesel,145,54.3,2.0
+17541, 5 Series,2016,Automatic,74322,Diesel,30,62.8,2.0
+17542, 5 Series,2015,Automatic,50558,Diesel,30,62.8,2.0
+17543, 4 Series,2017,Automatic,29871,Diesel,145,65.7,2.0
+17544, 1 Series,2016,Manual,56044,Diesel,0,78.5,1.5
+17545, 1 Series,2016,Manual,40855,Diesel,30,65.7,2.0
+17546, 6 Series,2016,Automatic,45140,Diesel,200,49.6,3.0
+17547, 2 Series,2017,Manual,14980,Petrol,125,52.3,1.5
+17548, 4 Series,2018,Automatic,7970,Petrol,145,44.1,2.0
+17549, 3 Series,2012,Manual,54000,Diesel,30,61.4,2.0
+17550, 7 Series,2017,Automatic,22000,Petrol,150,22.1,6.6
+17551, 6 Series,2008,Semi-Auto,67000,Diesel,265,40.9,3.0
+17552, M4,2015,Semi-Auto,35000,Petrol,330,32.5,3.0
+17553, 1 Series,2016,Manual,30000,Diesel,0,83.1,1.5
+17554, 4 Series,2016,Automatic,29041,Diesel,30,65.7,2.0
+17555, 4 Series,2015,Automatic,51873,Diesel,160,52.3,3.0
+17556, 3 Series,2018,Automatic,15377,Diesel,145,56.5,3.0
+17557, 1 Series,2017,Manual,41925,Diesel,0,78.5,1.5
+17558, 2 Series,2016,Manual,34489,Diesel,0,74.3,1.5
+17559, 3 Series,2016,Automatic,41317,Diesel,20,74.3,2.0
+17560, 4 Series,2016,Automatic,25000,Diesel,160,52.3,3.0
+17561, 1 Series,2017,Manual,20064,Petrol,145,53.3,1.5
+17562, 4 Series,2016,Automatic,61688,Diesel,20,70.6,2.0
+17563, 1 Series,2015,Manual,33826,Diesel,30,65.7,2.0
+17564, X3,2017,Automatic,26986,Diesel,145,54.3,2.0
+17565, 2 Series,2016,Manual,24169,Petrol,125,50.4,1.5
+17566, X5,2008,Automatic,86800,Diesel,325,34.9,3.0
+17567, 6 Series,2013,Automatic,57000,Diesel,165,49.6,3.0
+17568, 7 Series,2012,Automatic,76000,Diesel,260,41.5,3.0
+17569, 1 Series,2015,Manual,27667,Diesel,30,65.7,2.0
+17570, 1 Series,2016,Manual,26016,Diesel,20,70.6,1.5
+17571, 1 Series,2016,Manual,33578,Diesel,0,83.1,1.5
+17572, 1 Series,2016,Manual,33243,Diesel,0,78.5,1.5
+17573, 1 Series,2016,Manual,26141,Diesel,0,78.5,1.5
+17574, 3 Series,2014,Manual,49969,Diesel,30,61.4,2.0
+17575, 2 Series,2018,Manual,14228,Petrol,145,52.3,1.5
+17576, 1 Series,2016,Manual,59751,Diesel,0,83.1,1.5
+17577, 3 Series,2012,Automatic,85118,Diesel,30,62.8,2.0
+17578, 1 Series,2016,Manual,18644,Diesel,0,78.5,1.5
+17579, 1 Series,2014,Automatic,38809,Petrol,145,48.7,1.6
+17580, 6 Series,2016,Automatic,43483,Diesel,200,49.6,3.0
+17581, 1 Series,2017,Automatic,35259,Petrol,145,39.8,3.0
+17582, 3 Series,2015,Automatic,30345,Diesel,125,58.9,2.0
+17583, 2 Series,2016,Automatic,41248,Petrol,260,37.2,3.0
+17584, X1,2014,Automatic,65000,Diesel,160,52.3,2.0
+17585, 5 Series,2013,Automatic,70000,Diesel,145,55.4,2.0
+17586, X5,2013,Automatic,76000,Diesel,300,37.7,3.0
+17587, 1 Series,2013,Manual,56000,Diesel,30,64.2,2.0
+17588, 1 Series,2016,Automatic,31000,Petrol,145,43.5,2.0
+17589, 2 Series,2017,Automatic,10000,Petrol,145,55.4,1.5
+17590, 5 Series,1996,Automatic,36000,Petrol,270,26.4,2.8
+17591, 1 Series,2019,Automatic,9567,Petrol,145,55.5,1.5
+17592, 3 Series,2015,Automatic,78680,Diesel,160,52.3,3.0
+17593, 1 Series,2019,Manual,10374,Petrol,145,53.3,1.5
+17594, 3 Series,2015,Manual,44379,Diesel,30,61.4,2.0
+17595, X1,2017,Manual,41950,Diesel,20,68.9,2.0
+17596, X4,2015,Manual,70601,Diesel,160,52.3,2.0
+17597, X3,2016,Automatic,83354,Diesel,145,54.3,2.0
+17598, 5 Series,2013,Automatic,38000,Diesel,150,55.4,2.0
+17599, 3 Series,2014,Automatic,41363,Diesel,125,60.1,2.0
+17600, 5 Series,2015,Automatic,50355,Diesel,30,62.8,2.0
+17601, 5 Series,2016,Automatic,97290,Diesel,30,62.8,2.0
+17602, 3 Series,2016,Automatic,46003,Diesel,160,51.4,3.0
+17603, 1 Series,2017,Manual,22449,Diesel,145,78.5,1.5
+17604, 1 Series,2019,Manual,10514,Petrol,145,53.3,1.5
+17605, 1 Series,2019,Automatic,12192,Petrol,145,55.5,1.5
+17606, 3 Series,2015,Manual,49520,Diesel,30,67.3,2.0
+17607, 6 Series,2013,Automatic,52635,Diesel,160,49.6,3.0
+17608, 2 Series,2016,Manual,41312,Diesel,30,65.7,2.0
+17609, 1 Series,2016,Manual,37025,Diesel,0,83.1,1.5
+17610, 1 Series,2016,Automatic,57701,Diesel,30,62.8,2.0
+17611, Z4,2014,Automatic,44027,Petrol,200,41.5,2.0
+17612, 3 Series,2017,Automatic,24501,Diesel,30,64.2,2.0
+17613, X3,2015,Manual,51715,Diesel,160,52.3,2.0
+17614, 5 Series,2007,Manual,150000,Diesel,205,46.3,2.0
+17615, 7 Series,2017,Automatic,73348,Diesel,145,54.3,3.0
+17616, 3 Series,2016,Automatic,54153,Diesel,30,62.8,2.0
+17617, 1 Series,2013,Manual,71000,Diesel,30,64.2,2.0
+17618, 3 Series,2016,Manual,51098,Diesel,30,64.2,2.0
+17619, 1 Series,2019,Manual,11191,Petrol,145,53.3,1.5
+17620, 3 Series,2014,Manual,67911,Diesel,30,62.8,2.0
+17621, 3 Series,2015,Manual,55988,Diesel,20,72.4,2.0
+17622, 1 Series,2016,Manual,20867,Diesel,20,70.6,1.5
+17623, 1 Series,2013,Automatic,81796,Diesel,30,62.8,2.0
+17624, 3 Series,2014,Automatic,61829,Diesel,125,57.6,3.0
+17625, 2 Series,2016,Manual,39613,Diesel,30,65.7,2.0
+17626, 5 Series,2016,Automatic,20724,Diesel,160,51.4,3.0
+17627, 4 Series,2018,Automatic,9544,Petrol,145,48.7,2.0
+17628, 2 Series,2016,Manual,80250,Diesel,20,68.9,2.0
+17629, 3 Series,2016,Automatic,72390,Hybrid,0,148.7,2.0
+17630, 4 Series,2014,Automatic,20030,Petrol,165,44.1,2.0
+17631, 2 Series,2019,Manual,7378,Petrol,150,52.3,1.5
+17632, 5 Series,2014,Automatic,42007,Diesel,20,68.9,2.0
+17633, 1 Series,2017,Automatic,24693,Petrol,145,54.3,1.5
+17634, 1 Series,2018,Automatic,13760,Diesel,145,49.6,2.0
+17635, 2 Series,2016,Manual,11656,Petrol,125,52.3,1.5
+17636, 3 Series,2013,Manual,86000,Diesel,125,57.6,2.0
+17637, 4 Series,2014,Manual,105850,Diesel,125,58.9,2.0
+17638, 5 Series,2015,Automatic,106170,Diesel,160,51.4,3.0
+17639, 3 Series,2016,Automatic,64590,Hybrid,0,148.7,2.0
+17640, 1 Series,2016,Manual,56800,Diesel,20,70.6,1.5
+17641, 1 Series,2008,Manual,101000,Diesel,125,58.9,2.0
+17642, 3 Series,2012,Automatic,84000,Diesel,145,53.3,2.0
+17643, 1 Series,2006,Manual,90000,Diesel,200,49.6,2.0
+17644, X5,2016,Automatic,37900,Diesel,200,47.1,3.0
+17645, 3 Series,2016,Manual,88090,Diesel,20,72.4,2.0
+17646, 4 Series,2015,Manual,99340,Diesel,30,62.8,2.0
+17647, 3 Series,2016,Automatic,75400,Hybrid,0,148.7,2.0
+17648, 3 Series,2016,Automatic,30803,Hybrid,0,134.5,2.0
+17649, 3 Series,2016,Automatic,45587,Diesel,145,53.3,3.0
+17650, 1 Series,2016,Manual,40245,Diesel,0,83.1,1.5
+17651, 1 Series,2014,Manual,80207,Diesel,30,62.8,2.0
+17652, 1 Series,2014,Automatic,12528,Petrol,125,50.4,1.6
+17653, 1 Series,2016,Automatic,42355,Petrol,235,37.7,3.0
+17654, 4 Series,2016,Automatic,41589,Diesel,160,49.6,3.0
+17655, 3 Series,2014,Automatic,41700,Diesel,125,58.9,2.0
+17656, 3 Series,2017,Automatic,19500,Diesel,205,49.6,3.0
+17657, X3,2015,Automatic,42400,Diesel,150,54.3,2.0
+17658, X1,2018,Automatic,11592,Petrol,145,44.8,2.0
+17659, X5,2009,Automatic,68000,Diesel,325,34.0,3.0
+17660, 3 Series,2008,Automatic,141000,Petrol,235,39.8,3.0
+17661, 3 Series,2004,Manual,162000,Diesel,205,49.6,2.0
+17662, X3,2019,Automatic,1799,Diesel,150,54.3,2.0
+17663, 1 Series,2019,Manual,20442,Diesel,150,70.6,1.5
+17664, 5 Series,2017,Automatic,34179,Diesel,150,65.7,2.0
+17665, 4 Series,2019,Automatic,6890,Diesel,145,65.7,2.0
+17666, 2 Series,2019,Automatic,3980,Diesel,145,67.3,2.0
+17667, 2 Series,2019,Automatic,4802,Diesel,145,48.7,2.0
+17668, 3 Series,2017,Automatic,15668,Diesel,145,64.2,2.0
+17669, 4 Series,2016,Automatic,24939,Diesel,160,50.4,3.0
+17670, 6 Series,2017,Automatic,14400,Diesel,160,51.4,3.0
+17671, X3,2019,Automatic,4726,Diesel,145,54.3,2.0
+17672, 4 Series,2016,Automatic,31910,Petrol,200,41.5,3.0
+17673, 4 Series,2019,Automatic,3480,Diesel,145,58.9,2.0
+17674, 2 Series,2020,Manual,3890,Petrol,145,43.5,1.5
+17675, 2 Series,2020,Automatic,3890,Petrol,145,36.2,2.0
+17676, 5 Series,2017,Automatic,16151,Diesel,150,65.7,2.0
+17677, X1,2018,Manual,1794,Petrol,150,51.4,1.5
+17678, 1 Series,2016,Manual,49761,Diesel,0,83.1,1.5
+17679, 2 Series,2017,Automatic,21697,Petrol,30,55.4,1.5
+17680, 2 Series,2015,Automatic,24322,Petrol,125,50.4,2.0
+17681, X3,2019,Automatic,2593,Diesel,145,54.3,2.0
+17682, 3 Series,2019,Automatic,4884,Petrol,145,41.5,2.0
+17683, 1 Series,2016,Automatic,54075,Diesel,20,70.6,2.0
+17684, 5 Series,2017,Automatic,54678,Diesel,125,60.1,2.0
+17685, 5 Series,2016,Automatic,34143,Diesel,160,51.4,3.0
+17686, 5 Series,2017,Automatic,31996,Diesel,145,65.7,2.0
+17687, 4 Series,2016,Automatic,46000,Diesel,30,65.7,2.0
+17688, X5,2019,Automatic,9803,Diesel,150,37.7,3.0
+17689, 1 Series,2017,Manual,20038,Petrol,125,53.3,1.5
+17690, 1 Series,2016,Manual,24322,Petrol,265,36.2,3.0
+17691, 4 Series,2017,Automatic,19330,Petrol,150,44.8,2.0
+17692, 3 Series,2015,Automatic,37676,Diesel,145,53.3,3.0
+17693, X5,2014,Automatic,72442,Diesel,200,47.1,3.0
+17694, 3 Series,2016,Automatic,62730,Diesel,125,57.6,2.0
+17695, 3 Series,2012,Automatic,64191,Diesel,160,50.4,2.0
+17696, 1 Series,2013,Manual,76941,Diesel,125,60.1,2.0
+17697, 7 Series,2014,Automatic,51932,Hybrid,195,41.5,3.0
+17698, 3 Series,2016,Automatic,78878,Other,0,134.5,2.0
+17699, 3 Series,2017,Automatic,74930,Hybrid,0,134.5,2.0
+17700, 1 Series,2015,Manual,61140,Diesel,125,58.9,2.0
+17701, 2 Series,2016,Automatic,115470,Hybrid,0,141.2,1.5
+17702, 5 Series,2015,Automatic,110540,Diesel,145,53.3,3.0
+17703, 3 Series,2016,Manual,93760,Diesel,20,72.4,2.0
+17704, 3 Series,2013,Manual,82260,Diesel,30,62.8,2.0
+17705, 2 Series,2016,Manual,94790,Diesel,0,74.3,1.5
+17706, 1 Series,2014,Automatic,54020,Diesel,30,64.2,2.0
+17707, 3 Series,2013,Manual,73070,Diesel,30,61.4,2.0
+17708, X3,2012,Automatic,72040,Diesel,160,50.4,2.0
+17709, 3 Series,1999,Automatic,82000,Petrol,245,31.0,2.8
+17710, 1 Series,2012,Manual,28000,Diesel,125,58.9,2.0
+17711, 3 Series,2016,Automatic,97600,Diesel,30,64.2,2.0
+17712, 2 Series,2015,Manual,102900,Diesel,30,64.2,2.0
+17713, X1,2016,Manual,71300,Diesel,125,58.9,2.0
+17714, X5,2011,Automatic,90734,Diesel,305,38.2,3.0
+17715, 1 Series,2010,Manual,93800,Diesel,30,62.8,2.0
+17716, 1 Series,2014,Manual,53310,Diesel,30,62.8,2.0
+17717, 5 Series,2015,Automatic,114890,Diesel,125,60.1,2.0
+17718, 3 Series,2014,Automatic,147110,Diesel,30,62.8,2.0
+17719, 1 Series,2014,Automatic,64690,Diesel,30,64.2,2.0
+17720, 4 Series,2017,Manual,46350,Diesel,30,62.8,2.0
+17721, 6 Series,2014,Automatic,51920,Diesel,160,49.6,3.0
+17722, 3 Series,2017,Automatic,64000,Hybrid,0,134.5,2.0
+17723, 5 Series,2013,Automatic,76290,Diesel,145,55.4,2.0
+17724, 5 Series,2016,Automatic,96620,Diesel,30,62.8,2.0
+17725, 2 Series,2016,Manual,68940,Diesel,30,64.2,2.0
+17726, 2 Series,2015,Manual,133670,Diesel,20,68.9,2.0
+17727, 1 Series,2016,Manual,60740,Diesel,0,83.1,1.5
+17728, 4 Series,2016,Automatic,80380,Diesel,125,58.9,2.0
+17729, 3 Series,2015,Automatic,75800,Diesel,145,55.4,2.0
+17730, 3 Series,2011,Manual,48000,Diesel,145,55.4,2.0
+17731, X1,2013,Manual,32000,Diesel,125,57.6,2.0
+17732, 1 Series,2012,Manual,41000,Diesel,30,62.8,2.0
+17733, Z4,2012,Manual,40000,Petrol,200,41.5,2.0
+17734, M5,2012,Automatic,51000,Petrol,555,28.5,4.4
+17735, Z4,2011,Manual,26000,Petrol,300,33.2,2.5
+17736, 1 Series,2014,Automatic,46000,Petrol,235,37.7,3.0
+17737, 1 Series,2017,Manual,16758,Diesel,150,62.8,2.0
+17738, X3,2019,Automatic,2483,Petrol,145,30.4,2.0
+17739, 2 Series,2019,Manual,6685,Diesel,150,65.7,2.0
+17740, X3,2019,Automatic,8794,Diesel,145,36.7,3.0
+17741, M4,2019,Automatic,299,Petrol,145,32.5,3.0
+17742, 2 Series,2018,Manual,17123,Petrol,150,52.3,1.5
+17743, X1,2016,Automatic,46968,Diesel,125,57.6,2.0
+17744, X1,2019,Manual,12159,Petrol,150,51.4,1.5
+17745, X3,2019,Automatic,3252,Petrol,150,30.4,2.0
+17746, 5 Series,2019,Automatic,5134,Hybrid,140,156.9,2.0
+17747, 4 Series,2018,Automatic,18000,Diesel,150,65.7,2.0
+17748, 1 Series,2017,Manual,24757,Petrol,150,56.5,1.5
+17749, X5,2017,Automatic,9038,Petrol,150,29.1,4.4
+17750, 2 Series,2019,Automatic,9434,Diesel,145,48.7,2.0
+17751, X2,2019,Automatic,8579,Petrol,145,42.2,1.5
+17752, X3,2019,Automatic,2682,Petrol,145,30.4,2.0
+17753, X3,2019,Automatic,6797,Petrol,145,30.4,2.0
+17754, 4 Series,2019,Automatic,8509,Diesel,145,65.7,2.0
+17755, 2 Series,2017,Automatic,23200,Diesel,145,68.9,2.0
+17756, 5 Series,2019,Automatic,6890,Diesel,145,53.3,3.0
+17757, X7,2019,Automatic,3890,Diesel,145,33.6,3.0
+17758, 3 Series,2019,Automatic,6890,Diesel,145,48.7,2.0
+17759, 2 Series,2019,Automatic,3890,Diesel,145,48.7,2.0
+17760, 4 Series,2019,Automatic,3890,Diesel,145,60.1,2.0
+17761, 5 Series,2019,Automatic,3890,Diesel,145,60.1,2.0
+17762, 4 Series,2019,Automatic,6890,Diesel,145,65.7,2.0
+17763, 5 Series,2019,Automatic,6890,Diesel,145,62.8,2.0
+17764, 7 Series,2017,Automatic,11297,Petrol,145,22.1,6.6
+17765, 3 Series,2011,Manual,149958,Diesel,30,62.8,2.0
+17766, 3 Series,2016,Automatic,111160,Hybrid,0,148.7,2.0
+17767, 4 Series,2017,Automatic,68410,Diesel,30,65.7,2.0
+17768, 4 Series,2016,Manual,85520,Diesel,30,67.3,2.0
+17769, 1 Series,2012,Manual,95360,Diesel,30,62.8,2.0
+17770, 2 Series,2017,Manual,24216,Diesel,30,64.2,2.0
+17771, 5 Series,2014,Automatic,43208,Diesel,125,57.6,2.0
+17772, 5 Series,2018,Automatic,31905,Diesel,145,68.9,2.0
+17773, X4,2016,Automatic,59000,Diesel,145,54.3,2.0
+17774, 1 Series,2016,Automatic,40000,Diesel,30,65.7,2.0
+17775, 3 Series,2013,Automatic,46000,Petrol,145,47.9,1.6
+17776, 1 Series,2014,Automatic,59000,Diesel,30,64.2,2.0
+17777, 5 Series,2013,Automatic,38000,Petrol,200,43.5,2.0
+17778, X3,2016,Automatic,23000,Diesel,145,54.3,2.0
+17779, X1,2010,Manual,87300,Diesel,165,49.6,2.0
+17780, 5 Series,2016,Automatic,10098,Diesel,125,60.1,2.0
+17781, 3 Series,2017,Automatic,27273,Diesel,145,56.5,3.0
+17782, X1,2016,Manual,38775,Diesel,20,68.9,2.0
+17783, 5 Series,2016,Automatic,27193,Diesel,160,50.4,3.0
+17784, 5 Series,2015,Automatic,59420,Diesel,30,62.8,2.0
+17785, 3 Series,2016,Automatic,84252,Hybrid,0,134.5,2.0
+17786, 3 Series,2016,Manual,20640,Diesel,30,67.3,2.0
+17787, 2 Series,2017,Automatic,36824,Diesel,150,60.1,2.0
+17788, Z4,2008,Manual,63000,Petrol,325,31.7,3.0
+17789, Z3,2001,Manual,60000,Petrol,325,30.7,2.2
+17790, 4 Series,2019,Automatic,3250,Petrol,145,48.7,2.0
+17791, M4,2019,Automatic,1326,Petrol,145,34.0,3.0
+17792, 3 Series,2020,Automatic,4691,Hybrid,135,8.8,2.0
+17793, i8,2019,Automatic,176,Hybrid,135,141.2,1.5
+17794, X1,2019,Automatic,3980,Diesel,145,60.1,2.0
+17795, 4 Series,2019,Automatic,1510,Petrol,145,48.7,2.0
+17796, 2 Series,2019,Automatic,4259,Petrol,145,39.8,3.0
+17797, 1 Series,2019,Automatic,8501,Petrol,145,34.5,2.0
+17798, 3 Series,2016,Automatic,61630,Diesel,145,53.3,3.0
+17799, 1 Series,2012,Manual,93697,Diesel,125,60.1,2.0
+17800, 1 Series,2013,Manual,68000,Petrol,125,52.3,1.6
+17801, M3,2004,Manual,60000,Petrol,325,23.3,3.2
+17802, M3,2004,Manual,46000,Petrol,325,23.3,3.2
+17803, Z4,2004,Manual,39000,Petrol,330,31.0,3.0
+17804, Z4,2011,Manual,64250,Petrol,305,33.2,2.5
+17805, 3 Series,2014,Manual,59000,Diesel,125,58.9,2.0
+17806, Z3,1997,Manual,49000,Petrol,270,35.3,1.9
+17807, Z3,1998,Manual,56500,Petrol,270,35.3,1.9
+17808, 4 Series,2019,Automatic,4980,Petrol,145,45.6,2.0
+17809, X1,2016,Automatic,24999,Diesel,125,57.6,2.0
+17810, 1 Series,2017,Manual,46000,Petrol,125,52.3,1.5
+17811, 1 Series,2017,Manual,31000,Petrol,145,46.3,2.0
+17812, 4 Series,2014,Automatic,19500,Diesel,160,50.4,3.0
+17813, 1 Series,2017,Automatic,11360,Petrol,145,39.8,3.0
+17814, X6,2017,Automatic,31931,Petrol,145,29.1,4.4
+17815, 2 Series,2019,Automatic,10440,Diesel,145,62.8,2.0
+17816, 4 Series,2016,Automatic,37484,Diesel,30,65.7,2.0
+17817, X5,2017,Automatic,29183,Diesel,150,47.1,3.0
+17818, X3,2017,Automatic,30448,Diesel,150,54.3,2.0
+17819, 3 Series,2018,Automatic,28935,Diesel,145,64.2,2.0
+17820, 3 Series,2015,Automatic,54204,Diesel,125,61.4,2.0
+17821, 5 Series,2002,Automatic,78316,Petrol,325,23.7,3.5
+17822, 7 Series,2016,Automatic,34000,Diesel,125,57.6,3.0
+17823, X5,2015,Automatic,47000,Diesel,200,47.1,3.0
+17824, X4,2015,Automatic,66000,Diesel,145,54.3,2.0
+17825, X5,2016,Automatic,29000,Diesel,205,47.1,3.0
+17826, 1 Series,2012,Automatic,64000,Diesel,165,51.4,2.0
+17827, X1,2017,Automatic,8000,Diesel,150,60.1,2.0
+17828, 3 Series,2016,Automatic,26000,Other,0,134.5,2.0
+17829, 1 Series,2017,Automatic,18000,Petrol,205,39.8,3.0
+17830, X6,2017,Automatic,42000,Diesel,150,42.8,3.0
+17831, 4 Series,2017,Automatic,22462,Diesel,150,65.7,2.0
+17832, X5,2017,Automatic,9748,Diesel,150,47.9,3.0
+17833, X3,2017,Automatic,10897,Diesel,150,54.3,2.0
+17834, 1 Series,2017,Automatic,45000,Petrol,150,39.8,3.0
+17835, 3 Series,2014,Manual,27000,Diesel,150,55.4,2.0
+17836, M5,2016,Automatic,39200,Petrol,555,28.5,4.4
+17837, 3 Series,2008,Automatic,123023,Petrol,200,42.2,2.0
+17838, 3 Series,2008,Manual,108000,Petrol,235,38.7,3.0
+17839, 3 Series,2002,Manual,121821,Petrol,330,29.4,2.5
+17840, 3 Series,2004,Manual,82785,Petrol,330,29.4,2.5
+17841, 3 Series,2014,Manual,138750,Diesel,30,65.7,2.0
+17842, 3 Series,2014,Manual,30000,Petrol,160,44.8,2.0
+17843, 1 Series,2016,Manual,39000,Diesel,20,70.6,1.5
+17844, 3 Series,2015,Automatic,26000,Diesel,30,64.2,2.0
+17845, M5,2014,Automatic,55241,Petrol,555,28.5,4.4
+17846, 4 Series,2014,Automatic,18000,Diesel,160,50.4,3.0
+17847, X3,2017,Automatic,32248,Diesel,145,54.3,2.0
+17848, 3 Series,2016,Automatic,30000,Diesel,145,56.5,3.0
+17849, 2 Series,2017,Automatic,14000,Diesel,145,65.7,2.0
+17850, X6,2018,Automatic,40000,Diesel,145,40.9,3.0
+17851, 3 Series,2017,Automatic,24000,Diesel,145,51.4,3.0
+17852, X4,2019,Automatic,7000,Diesel,150,42.8,2.0
+17853, X1,2016,Automatic,20000,Diesel,150,56.5,2.0
+17854, 4 Series,2015,Automatic,20454,Petrol,260,37.2,3.0
+17855, 5 Series,2018,Automatic,9034,Diesel,145,60.1,3.0
+17856, X4,2016,Automatic,44572,Diesel,200,47.9,3.0
+17857, 5 Series,2017,Automatic,38089,Petrol,145,39.2,3.0
+17858, 2 Series,2016,Automatic,53472,Petrol,200,39.8,3.0
+17859, 3 Series,2016,Automatic,45853,Diesel,200,49.6,3.0
+17860, 3 Series,2015,Automatic,31500,Diesel,140,56.5,3.0
+17861, 5 Series,2017,Automatic,43503,Diesel,145,53.3,3.0
+17862, 3 Series,2014,Automatic,42000,Diesel,30,62.8,2.0
+17863, X5,2016,Automatic,20000,Petrol,570,25.4,4.4
+17864, M4,2019,Semi-Auto,12000,Petrol,145,34.0,3.0
+17865, 1 Series,2014,Automatic,24500,Petrol,145,48.7,1.6
+17866, 4 Series,2013,Automatic,47770,Petrol,165,44.1,2.0
+17867, 3 Series,2012,Automatic,41600,Diesel,160,50.4,2.0
+17868, X6,2014,Automatic,68787,Diesel,305,37.7,3.0
+17869, 1 Series,2017,Automatic,20000,Petrol,150,39.8,3.0
+17870, 3 Series,2014,Manual,51000,Diesel,125,57.6,2.0
+17871, 4 Series,2016,Semi-Auto,21600,Petrol,300,34.0,3.0
+17872, 1 Series,2013,Automatic,62000,Diesel,30,64.2,2.0
+17873, X7,2019,Automatic,15000,Diesel,145,31.4,3.0
+17874, 1 Series,2012,Manual,58000,Diesel,30,62.8,2.0
+17875, 5 Series,2012,Automatic,84000,Diesel,165,51.4,3.0
+17876, 1 Series,2010,Manual,106000,Diesel,150,56.5,2.0
+17877, 1 Series,2012,Manual,60000,Diesel,125,58.9,2.0
+17878, 3 Series,2017,Automatic,19147,Petrol,145,47.9,2.0
+17879, 3 Series,2007,Automatic,97284,Diesel,260,42.2,2.0
+17880, X5,2014,Automatic,40000,Diesel,200,47.9,3.0
+17881, 1 Series,2013,Manual,36075,Diesel,30,62.8,2.0
+17882, 2 Series,2018,Automatic,12004,Petrol,145,50.4,1.5
+17883, 1 Series,2010,Manual,117454,Diesel,30,62.8,2.0
+17884, 3 Series,2012,Manual,93819,Diesel,20,68.9,2.0
+17885, 3 Series,2017,Automatic,29426,Petrol,200,43.5,2.0
+17886, 3 Series,2013,Automatic,89543,Diesel,125,60.1,2.0
+17887, 1 Series,2013,Manual,39872,Petrol,300,33.2,3.0
+17888, X1,2015,Automatic,44105,Diesel,125,57.6,2.0
+17889, i3,2016,Automatic,35446,Hybrid,0,470.8,0.0
+17890, X3,2016,Automatic,22492,Diesel,145,54.3,2.0
+17891, X3,2013,Automatic,30000,Diesel,165,50.4,2.0
+17892, X5,2016,Automatic,29614,Diesel,205,47.1,3.0
+17893, 6 Series,2014,Automatic,59295,Diesel,160,49.6,3.0
+17894, 7 Series,2019,Automatic,2000,Hybrid,135,113.0,2.0
+17895, X5,2017,Automatic,21470,Diesel,145,45.6,3.0
+17896, i8,2015,Automatic,48800,Other,0,134.5,1.5
+17897, X5,2014,Automatic,52484,Diesel,200,47.1,3.0
+17898, 3 Series,2013,Manual,112000,Diesel,20,68.9,2.0
+17899, 1 Series,2016,Manual,94300,Diesel,0,83.1,1.5
+17900, 3 Series,2016,Automatic,45000,Diesel,160,49.6,3.0
+17901, 1 Series,2016,Manual,106600,Diesel,0,83.1,1.5
+17902, 1 Series,2016,Manual,42150,Petrol,125,53.3,1.5
+17903, Z3,1999,Manual,58000,Petrol,270,35.3,1.9
+17904, M3,2009,Manual,65000,Petrol,580,21.9,4.0
+17905, M3,2009,Manual,65000,Petrol,580,21.9,4.0
+17906, 3 Series,2008,Automatic,76000,Petrol,235,39.2,3.0
+17907, 3 Series,2013,Automatic,70000,Diesel,165,50.4,2.0
+17908, 3 Series,2013,Automatic,70000,Diesel,165,50.4,2.0
+17909, 5 Series,2017,Automatic,59069,Diesel,30,68.9,2.0
+17910, 3 Series,2013,Manual,50708,Petrol,200,41.5,2.0
+17911, 1 Series,2015,Automatic,32840,Petrol,125,50.4,1.6
+17912, 2 Series,2016,Automatic,34391,Diesel,20,68.9,1.5
+17913, X1,2015,Automatic,30951,Diesel,165,52.3,2.0
+17914, 1 Series,2014,Automatic,28893,Petrol,235,37.7,3.0
+17915, X1,2012,Manual,41000,Diesel,160,51.4,2.0
+17916, 1 Series,2015,Automatic,32000,Petrol,235,37.7,3.0
+17917, 3 Series,2013,Manual,40000,Diesel,125,57.6,2.0
+17918, X5,2014,Automatic,80000,Diesel,200,47.9,2.0
+17919, X3,2014,Automatic,106870,Diesel,150,54.3,2.0
+17920, 1 Series,2016,Manual,82850,Diesel,0,83.1,1.5
+17921, 4 Series,2016,Manual,43000,Diesel,30,67.3,2.0
+17922, X3,2011,Automatic,72500,Diesel,165,50.4,2.0
+17923, 1 Series,2016,Manual,49000,Petrol,30,56.5,1.5
+17924, 3 Series,2009,Manual,77000,Diesel,145,53.3,2.0
+17925, 5 Series,2004,Automatic,90000,Petrol,325,26.6,4.4
+17926, 5 Series,2012,Automatic,129000,Diesel,165,51.4,3.0
+17927, 5 Series,2012,Manual,56700,Diesel,30,62.8,2.0
+17928, Z4,2004,Manual,114000,Petrol,325,32.1,2.2
+17929, X3,2017,Automatic,55780,Diesel,150,54.3,2.0
+17930, 3 Series,2018,Automatic,15331,Petrol,145,40.4,3.0
+17931, X5,2019,Automatic,11900,Diesel,145,37.7,3.0
+17932, X5,2017,Automatic,30749,Diesel,145,47.1,3.0
+17933, 1 Series,2013,Manual,29000,Diesel,120,58.9,2.0
+17934, 1 Series,2009,Manual,77000,Petrol,205,42.8,2.0
+17935, 6 Series,2016,Automatic,27483,Diesel,200,49.6,3.0
+17936, 3 Series,2013,Manual,55125,Diesel,30,62.8,2.0
+17937, 1 Series,2012,Manual,73853,Diesel,125,60.1,2.0
+17938, 1 Series,2013,Automatic,45000,Petrol,235,37.7,3.0
+17939, X5,2017,Automatic,30000,Other,130,85.6,2.0
+17940, 1 Series,2013,Manual,57000,Diesel,30,65.7,2.0
+17941, 1 Series,2015,Manual,97800,Diesel,0,83.1,1.5
+17942, 3 Series,2014,Automatic,51783,Diesel,125,60.1,2.0
+17943, X4,2016,Automatic,57000,Diesel,205,47.1,3.0
+17944, 3 Series,2009,Automatic,120000,Petrol,305,34.0,3.0
+17945, X5,2017,Automatic,23000,Diesel,145,50.4,2.0
+17946, X5,2016,Automatic,49000,Petrol,570,25.4,0.0
+17947, Z4,2016,Automatic,10000,Petrol,205,41.5,2.0
+17948, M5,2018,Automatic,13500,Petrol,150,24.1,4.4
+17949, M5,2019,Automatic,13000,Petrol,150,24.1,4.4
+17950, 1 Series,2017,Automatic,8000,Petrol,150,54.3,1.5
+17951, X5,2013,Automatic,43000,Diesel,305,38.2,3.0
+17952, X3,2014,Automatic,35000,Diesel,160,50.4,2.0
+17953, X5,2009,Automatic,71000,Diesel,330,34.4,3.0
+17954, 7 Series,2007,Automatic,83000,Diesel,325,34.4,2.5
+17955, 1 Series,2008,Manual,92000,Petrol,200,44.1,2.0
+17956, 3 Series,2016,Automatic,32000,Other,0,148.7,2.0
+17957, 1 Series,2012,Manual,78600,Petrol,145,49.6,1.6
+17958, M5,2019,Automatic,3700,Petrol,145,24.1,4.4
+17959, 2 Series,2016,Manual,42000,Petrol,125,53.3,1.5
+17960, X3,2007,Automatic,100000,Diesel,555,32.8,3.0
+17961, 3 Series,2012,Automatic,89977,Diesel,125,60.1,2.0
+17962, 1 Series,2012,Manual,68397,Diesel,30,62.8,2.0
+17963, X3,2012,Automatic,62335,Diesel,160,50.4,2.0
+17964, X4,2015,Automatic,26722,Diesel,205,47.9,3.0
+17965, Z4,2014,Manual,37957,Petrol,200,41.5,2.0
+17966, M2,2018,Automatic,17000,Petrol,145,39.8,3.0
+17967, M2,2018,Semi-Auto,6120,Petrol,150,29.1,3.0
+17968, 3 Series,2011,Automatic,102000,Diesel,200,46.3,3.0
+17969, 5 Series,2010,Automatic,164500,Diesel,140,53.3,2.0
+17970, 3 Series,2012,Manual,112000,Diesel,30,61.4,2.0
+17971, 3 Series,2000,Automatic,93000,Petrol,270,29.7,2.5
+17972, 1 Series,2018,Automatic,24791,Petrol,150,55.5,1.5
+17973, X1,2017,Manual,33941,Diesel,125,58.9,2.0
+17974, 3 Series,2002,Manual,99000,Petrol,325,30.1,2.2
+17975, X5,2011,Automatic,46000,Petrol,570,22.6,4.4
+17976, X1,2013,Manual,67000,Diesel,160,51.4,2.0
+17977, X3,2014,Automatic,107000,Diesel,165,50.4,2.0
+17978, 5 Series,2012,Automatic,71000,Diesel,240,43.5,3.0
+17979, X3,2011,Automatic,85000,Diesel,165,50.4,2.0
+17980, M4,2018,Automatic,16000,Petrol,150,34.0,3.0
+17981, 3 Series,2009,Manual,91000,Diesel,125,57.6,2.0
+17982, 3 Series,2009,Manual,89000,Petrol,165,47.9,2.0
+17983, 5 Series,2013,Automatic,108000,Diesel,125,57.6,2.0
+17984, 3 Series,2006,Manual,76000,Diesel,160,50.4,2.0
+17985, 1 Series,2010,Manual,93890,Diesel,30,62.8,2.0
+17986, 3 Series,2007,Manual,103000,Diesel,205,49.6,2.0
+17987, X2,2019,Automatic,2920,Diesel,150,58.9,2.0
+17988, X1,2016,Automatic,22595,Petrol,160,44.8,2.0
+17989, 5 Series,2017,Automatic,33543,Diesel,150,65.7,2.0
+17990, 3 Series,2012,Automatic,85000,Diesel,20,68.9,2.0
+17991, 1 Series,2013,Automatic,33000,Diesel,30,64.2,2.0
+17992, 5 Series,2010,Automatic,55000,Petrol,555,27.2,4.4
+17993, 5 Series,2007,Automatic,129000,Diesel,330,35.8,2.5
+17994, 5 Series,2010,Automatic,129000,Diesel,205,46.3,3.0
+17995, 7 Series,2012,Automatic,41000,Diesel,260,41.5,3.0
+17996, 3 Series,2013,Automatic,62000,Diesel,30,62.8,2.0
+17997, M4,2017,Automatic,24905,Petrol,150,34.0,3.0
+17998, 5 Series,2018,Automatic,20000,Hybrid,140,156.9,2.0
+17999, 5 Series,2017,Automatic,6002,Hybrid,140,156.9,2.0
+18000, X4,2019,Automatic,2233,Petrol,145,24.8,3.0
+18001, 2 Series,2019,Automatic,12790,Diesel,145,51.4,2.0
+18002, 1 Series,2015,Automatic,17543,Diesel,20,70.6,2.0
+18003, 3 Series,2018,Automatic,12054,Diesel,150,64.2,2.0
+18004, 1 Series,2017,Manual,23674,Petrol,125,52.3,1.5
+18005, 1 Series,2015,Manual,85000,Diesel,0,83.1,1.5
+18006, X1,2018,Automatic,4972,Diesel,145,60.1,2.0
+18007, X2,2019,Automatic,11151,Petrol,145,40.4,2.0
+18008, 5 Series,2018,Automatic,37281,Petrol,145,50.4,2.0
+18009, 5 Series,2018,Automatic,42226,Petrol,145,50.4,2.0
+18010, 1 Series,2017,Automatic,40511,Diesel,145,62.8,2.0
+18011, X1,2017,Automatic,29657,Diesel,145,65.7,2.0
+18012, 3 Series,2018,Automatic,10877,Petrol,145,54.3,1.5
+18013, 1 Series,2016,Manual,21909,Petrol,125,52.3,1.5
+18014, 1 Series,2017,Automatic,25611,Petrol,145,39.8,3.0
+18015, X5,2019,Automatic,7513,Diesel,150,37.7,3.0
+18016, X5,2019,Automatic,7374,Hybrid,140,188.3,3.0
+18017, 1 Series,2016,Manual,17863,Diesel,0,83.1,1.5
+18018, 1 Series,2017,Manual,41927,Diesel,145,68.9,2.0
+18019, 3 Series,2015,Automatic,51344,Diesel,165,52.3,3.0
+18020, X6,2019,Automatic,8480,Diesel,150,34.9,3.0
+18021, 2 Series,2018,Automatic,9370,Petrol,150,40.9,1.5
+18022, 2 Series,2020,Manual,980,Petrol,145,43.5,1.5
+18023, 1 Series,2013,Automatic,53346,Petrol,145,48.7,1.6
+18024, X1,2017,Automatic,27988,Diesel,145,57.6,2.0
+18025, 2 Series,2016,Manual,11338,Diesel,30,65.7,2.0
+18026, X2,2018,Automatic,10369,Diesel,145,58.9,2.0
+18027, 6 Series,2016,Automatic,32449,Diesel,160,51.4,3.0
+18028, 4 Series,2016,Automatic,62046,Diesel,30,65.7,2.0
+18029, 5 Series,2015,Automatic,60892,Diesel,125,60.1,2.0
+18030, 2 Series,2020,Automatic,2980,Petrol,145,40.9,1.5
+18031, X1,2014,Automatic,38206,Diesel,145,56.5,2.0
+18032, 2 Series,2016,Automatic,45458,Diesel,20,68.9,2.0
+18033, 3 Series,2018,Automatic,11261,Petrol,145,41.5,3.0
+18034, 2 Series,2017,Automatic,41419,Other,0,141.2,1.5
+18035, 3 Series,2017,Automatic,24599,Diesel,150,62.8,2.0
+18036, 4 Series,2015,Automatic,56131,Diesel,30,62.8,2.0
+18037, X4,2016,Automatic,44352,Diesel,150,54.3,2.0
+18038, X4,2017,Automatic,23604,Diesel,150,54.3,2.0
+18039, X3,2016,Automatic,74838,Diesel,145,54.3,2.0
+18040, 3 Series,2016,Manual,68052,Diesel,20,68.9,2.0
+18041, 5 Series,2017,Automatic,39728,Diesel,125,60.1,2.0
+18042, 3 Series,2017,Manual,24589,Diesel,150,67.3,2.0
+18043, X3,2016,Manual,29281,Diesel,165,52.3,2.0
+18044, 1 Series,2019,Automatic,4176,Petrol,145,55.5,1.5
+18045, i3,2017,Automatic,19178,Other,0,470.8,0.6
+18046, 1 Series,2019,Automatic,9520,Petrol,150,54.3,1.5
+18047, X1,2017,Automatic,44882,Petrol,165,44.8,2.0
+18048, 3 Series,2016,Manual,20955,Petrol,205,40.4,2.0
+18049, X3,2013,Automatic,63505,Diesel,165,50.4,2.0
+18050, 3 Series,2017,Automatic,66782,Other,140,134.5,2.0
+18051, i3,2017,Automatic,23956,Other,135,470.8,0.6
+18052, 4 Series,2018,Automatic,37491,Petrol,145,45.6,2.0
+18053, 3 Series,2017,Automatic,61968,Other,140,134.5,2.0
+18054, X5,2016,Automatic,72219,Diesel,205,47.1,3.0
+18055, 3 Series,2018,Automatic,33254,Diesel,150,64.2,2.0
+18056, 3 Series,2016,Automatic,47266,Diesel,30,65.7,2.0
+18057, 1 Series,2013,Manual,39856,Diesel,125,58.9,2.0
+18058, 3 Series,2016,Automatic,32869,Diesel,30,67.3,2.0
+18059, 1 Series,2017,Automatic,69643,Diesel,30,62.8,2.0
+18060, 1 Series,2015,Automatic,74238,Diesel,125,60.1,2.0
+18061, 1 Series,2015,Manual,40829,Diesel,20,70.6,1.5
+18062, 3 Series,2018,Automatic,39758,Petrol,145,51.4,2.0
+18063, 5 Series,2017,Automatic,67287,Diesel,20,68.9,2.0
+18064, 1 Series,2017,Automatic,24614,Petrol,150,58.9,1.5
+18065, 5 Series,2016,Automatic,21166,Diesel,30,62.8,2.0
+18066, X1,2017,Manual,62344,Diesel,150,68.9,2.0
+18067, X3,2015,Automatic,91083,Diesel,150,54.3,2.0
+18068, X1,2014,Automatic,37905,Diesel,165,52.3,2.0
+18069, 3 Series,2016,Automatic,67801,Diesel,125,60.1,2.0
+18070, 3 Series,2016,Automatic,73178,Diesel,20,70.6,2.0
+18071, 2 Series,2015,Automatic,44056,Petrol,30,55.4,1.5
+18072, 5 Series,2016,Automatic,83189,Diesel,20,68.9,2.0
+18073, X2,2020,Automatic,1980,Petrol,145,34.0,2.0
+18074, X5,2019,Automatic,5980,Diesel,145,37.7,3.0
+18075, X7,2019,Automatic,3980,Diesel,145,31.4,3.0
+18076, 5 Series,2015,Automatic,56889,Diesel,30,62.8,2.0
+18077, 5 Series,2017,Automatic,28762,Diesel,30,62.8,2.0
+18078, X3,2016,Automatic,56782,Diesel,145,54.3,2.0
+18079, 3 Series,2020,Automatic,5980,Hybrid,135,8.8,2.0
+18080, 2 Series,2019,Automatic,9490,Petrol,145,39.2,1.5
+18081, X6,2019,Automatic,5980,Diesel,145,34.9,3.0
+18082, 7 Series,2019,Automatic,7414,Diesel,145,44.8,3.0
+18083, X3,2017,Automatic,23389,Diesel,150,54.3,2.0
+18084, 2 Series,2017,Manual,31265,Petrol,145,47.1,1.5
+18085, X3,2016,Automatic,85575,Diesel,150,54.3,2.0
+18086, X3,2017,Automatic,21617,Diesel,150,54.3,2.0
+18087, 5 Series,2017,Automatic,65319,Diesel,125,60.1,2.0
+18088, 3 Series,2016,Automatic,34303,Petrol,125,54.3,1.5
+18089, 1 Series,2016,Manual,45340,Diesel,0,83.1,1.5
+18090, X1,2016,Automatic,89114,Diesel,30,65.7,2.0
+18091, 3 Series,2013,Automatic,74561,Diesel,30,62.8,2.0
+18092, 3 Series,2017,Manual,41732,Petrol,145,48.7,2.0
+18093, X1,2016,Automatic,47406,Diesel,125,57.6,2.0
+18094, 7 Series,2016,Automatic,30194,Diesel,150,54.3,3.0
+18095, 1 Series,2016,Manual,33835,Petrol,30,56.5,1.5
+18096, 5 Series,2016,Automatic,48403,Diesel,30,62.8,2.0
+18097, 3 Series,2013,Manual,60863,Diesel,125,57.6,2.0
+18098, 2 Series,2017,Manual,28706,Petrol,125,52.3,1.5
+18099, 5 Series,2017,Automatic,36164,Diesel,125,60.1,2.0
+18100, 4 Series,2016,Automatic,43463,Diesel,30,65.7,2.0
+18101, 2 Series,2015,Automatic,52541,Diesel,125,57.6,2.0
+18102, X1,2016,Automatic,51505,Diesel,30,65.7,2.0
+18103, 1 Series,2016,Automatic,24297,Diesel,20,72.4,1.5
+18104, 3 Series,2016,Automatic,34383,Diesel,30,64.2,2.0
+18105, 3 Series,2017,Automatic,41685,Diesel,145,67.3,2.0
+18106, X1,2017,Manual,44580,Diesel,150,68.9,2.0
+18107, 2 Series,2018,Automatic,7209,Petrol,150,40.9,1.5
+18108, 1 Series,2014,Manual,39719,Diesel,30,65.7,2.0
+18109, 5 Series,2015,Automatic,64560,Diesel,30,62.8,2.0
+18110, X4,2016,Automatic,20737,Diesel,145,54.3,2.0
+18111, 1 Series,2017,Automatic,31672,Diesel,20,67.3,2.0
+18112, 3 Series,2016,Automatic,16319,Diesel,30,64.2,2.0
+18113, 4 Series,2019,Automatic,5000,Petrol,150,45.6,2.0
+18114, 2 Series,2017,Manual,22445,Petrol,125,50.4,1.5
+18115, 1 Series,2016,Manual,17941,Petrol,125,53.3,1.5
+18116, 1 Series,2017,Manual,48781,Diesel,145,68.9,2.0
+18117, 5 Series,2014,Manual,50347,Diesel,125,57.6,2.0
+18118, 5 Series,2017,Automatic,69110,Diesel,125,60.1,2.0
+18119, 3 Series,2016,Manual,15539,Diesel,30,67.3,2.0
+18120, 5 Series,2017,Automatic,28893,Diesel,150,68.9,2.0
+18121, 5 Series,2017,Automatic,41026,Diesel,30,62.8,2.0
+18122, X5,2016,Automatic,42421,Diesel,160,50.4,2.0
+18123, 2 Series,2017,Manual,31601,Diesel,150,74.3,1.5
+18124, X5,2015,Automatic,32352,Diesel,150,53.3,2.0
+18125, 3 Series,2013,Manual,93729,Petrol,125,53.3,1.6
+18126, 3 Series,2012,Automatic,77028,Diesel,30,62.8,2.0
+18127, 3 Series,2006,Automatic,61808,Petrol,305,35.8,2.0
+18128, X1,2010,Automatic,90000,Diesel,200,45.6,2.0
+18129, 3 Series,2014,Automatic,58436,Diesel,145,56.5,2.0
+18130, 2 Series,2016,Manual,33764,Diesel,20,74.3,1.5
+18131, 1 Series,2017,Manual,32285,Diesel,150,68.9,2.0
+18132, 1 Series,2016,Manual,27109,Petrol,125,53.3,1.5
+18133, 5 Series,2019,Automatic,32025,Petrol,150,47.9,2.0
+18134, 7 Series,2017,Automatic,22363,Diesel,150,60.1,3.0
+18135, 2 Series,2017,Automatic,24170,Petrol,145,53.3,1.5
+18136, 3 Series,2012,Automatic,73575,Diesel,30,62.8,2.0
+18137, 3 Series,2014,Automatic,36846,Diesel,125,57.6,3.0
+18138, 3 Series,2016,Manual,34657,Diesel,20,68.9,2.0
+18139, 3 Series,2017,Manual,57363,Diesel,20,68.9,2.0
+18140, 1 Series,2015,Manual,59496,Diesel,0,83.1,1.5
+18141, 5 Series,2016,Manual,39178,Diesel,30,65.7,2.0
+18142, 2 Series,2017,Automatic,22920,Diesel,20,68.9,2.0
+18143, 3 Series,2015,Manual,56398,Diesel,20,68.9,2.0
+18144, 1 Series,2017,Automatic,25076,Diesel,125,60.1,2.0
+18145, 4 Series,2016,Automatic,68589,Diesel,30,65.7,2.0
+18146, 1 Series,2018,Manual,16411,Diesel,145,49.6,2.0
+18147, 1 Series,2016,Manual,23109,Petrol,125,53.3,1.5
+18148, 1 Series,2016,Automatic,81751,Diesel,0,78.5,1.5
+18149, 3 Series,2016,Manual,53855,Diesel,30,62.8,2.0
+18150, 1 Series,2014,Manual,35974,Diesel,0,74.3,1.6
+18151, 7 Series,2012,Automatic,66294,Diesel,160,50.4,3.0
+18152, 3 Series,2016,Automatic,80077,Diesel,20,70.6,2.0
+18153, 5 Series,2015,Automatic,33731,Diesel,30,62.8,2.0
+18154, X3,2016,Automatic,26464,Diesel,145,54.3,2.0
+18155, 2 Series,2016,Manual,24073,Petrol,30,55.4,1.5
+18156, 5 Series,2017,Automatic,81749,Diesel,30,62.8,2.0
+18157, 5 Series,2017,Automatic,30262,Diesel,125,60.1,2.0
+18158, 3 Series,2018,Automatic,32663,Diesel,145,64.2,2.0
+18159, 1 Series,2017,Manual,21323,Petrol,145,52.3,1.5
+18160, 2 Series,2016,Automatic,44511,Diesel,30,64.2,2.0
+18161, 1 Series,2015,Manual,61296,Diesel,30,65.7,2.0
+18162, X3,2016,Automatic,46911,Diesel,150,54.3,2.0
+18163, 1 Series,2016,Manual,35590,Diesel,20,72.4,1.5
+18164, 4 Series,2017,Automatic,62368,Diesel,150,58.9,2.0
+18165, 1 Series,2012,Manual,31609,Diesel,30,62.8,2.0
+18166, 5 Series,2016,Automatic,91587,Diesel,165,51.4,3.0
+18167, 5 Series,2016,Automatic,28344,Diesel,30,62.8,2.0
+18168, 3 Series,2017,Manual,39461,Diesel,145,64.2,2.0
+18169, 1 Series,2017,Manual,65681,Diesel,20,70.6,2.0
+18170, 4 Series,2016,Automatic,83259,Diesel,30,65.7,2.0
+18171, 1 Series,2016,Manual,41475,Diesel,0,78.5,1.5
+18172, 2 Series,2017,Manual,51594,Diesel,0,74.3,1.5
+18173, 1 Series,2018,Manual,22961,Petrol,145,37.2,1.5
+18174, 3 Series,2017,Manual,40982,Diesel,145,67.3,2.0
+18175, 2 Series,2016,Manual,21819,Diesel,20,74.3,1.5
+18176, 1 Series,2017,Manual,18716,Diesel,145,65.7,2.0
+18177, 5 Series,2017,Automatic,74619,Diesel,125,60.1,2.0
+18178, X4,2014,Manual,44678,Diesel,160,52.3,2.0
+18179, 1 Series,2014,Automatic,35051,Diesel,30,64.2,2.0
+18180, 1 Series,2015,Manual,46295,Diesel,0,83.1,1.5
+18181, 3 Series,2014,Automatic,38055,Diesel,30,62.8,2.0
+18182, 3 Series,2013,Manual,51000,Diesel,30,62.8,2.0
+18183, 3 Series,2015,Automatic,24741,Diesel,30,62.8,2.0
+18184, 3 Series,2016,Manual,33038,Diesel,20,72.4,2.0
+18185, 3 Series,2013,Manual,32122,Petrol,145,47.9,1.6
+18186, 1 Series,2017,Manual,23574,Diesel,0,83.1,1.5
+18187, X1,2016,Manual,71848,Diesel,125,58.9,2.0
+18188, X5,2015,Automatic,65879,Diesel,200,47.1,3.0
+18189, 3 Series,2017,Manual,50649,Petrol,145,48.7,2.0
+18190, 4 Series,2017,Automatic,18098,Petrol,145,48.7,2.0
+18191, 1 Series,2015,Manual,21565,Diesel,30,64.2,2.0
+18192, 3 Series,2016,Automatic,55927,Diesel,30,62.8,2.0
+18193, 1 Series,2017,Manual,28850,Diesel,145,70.6,1.5
+18194, 3 Series,2017,Manual,28588,Petrol,145,45.6,2.0
+18195, 1 Series,2016,Manual,42309,Diesel,30,65.7,2.0
+18196, 5 Series,2016,Manual,89823,Diesel,30,62.8,2.0
+18197, 3 Series,2016,Automatic,23114,Diesel,145,53.3,3.0
+18198, 3 Series,2016,Manual,59341,Diesel,30,64.2,2.0
+18199, 1 Series,2016,Manual,83830,Diesel,20,72.4,1.5
+18200, 5 Series,2014,Automatic,126100,Diesel,30,62.8,2.0
+18201, 3 Series,2011,Manual,131000,Diesel,30,62.8,2.0
+18202, 3 Series,2008,Manual,85000,Petrol,555,28.5,3.0
+18203, 3 Series,2006,Automatic,95000,Petrol,555,29.7,3.0
+18204, 3 Series,2010,Manual,80000,Petrol,165,44.8,2.0
+18205, 1 Series,2017,Manual,40461,Diesel,30,62.8,2.0
+18206, 1 Series,2016,Automatic,31715,Diesel,20,67.3,2.0
+18207, X4,2015,Automatic,59975,Diesel,200,47.9,3.0
+18208, 3 Series,2016,Automatic,45900,Diesel,145,53.3,3.0
+18209, 5 Series,2013,Automatic,62009,Diesel,145,55.4,2.0
+18210, 5 Series,2015,Manual,56203,Diesel,30,62.8,2.0
+18211, X5,2016,Automatic,87467,Diesel,160,50.4,2.0
+18212, 3 Series,2013,Automatic,46577,Petrol,150,47.9,1.6
+18213, 3 Series,2014,Automatic,78871,Diesel,30,62.8,2.0
+18214, 3 Series,2017,Automatic,27288,Petrol,150,46.3,2.0
+18215, 2 Series,2016,Automatic,50791,Diesel,20,68.9,2.0
+18216, 5 Series,2016,Automatic,55573,Diesel,30,62.8,2.0
+18217, 5 Series,2016,Automatic,64598,Diesel,30,62.8,2.0
+18218, X1,2013,Manual,48532,Diesel,160,51.4,2.0
+18219, X1,2017,Automatic,64842,Diesel,145,57.6,2.0
+18220, 2 Series,2016,Manual,37567,Diesel,0,74.3,1.5
+18221, 5 Series,2017,Automatic,54589,Diesel,20,68.9,2.0
+18222, 5 Series,2016,Automatic,60187,Diesel,30,62.8,2.0
+18223, 1 Series,2016,Manual,31029,Petrol,125,53.3,1.5
+18224, 1 Series,2017,Manual,18638,Diesel,145,65.7,2.0
+18225, 1 Series,2016,Manual,37680,Diesel,0,83.1,1.5
+18226, 3 Series,2017,Manual,47308,Diesel,145,72.4,2.0
+18227, 3 Series,2017,Automatic,53208,Diesel,145,70.6,2.0
+18228, 3 Series,2017,Manual,21478,Diesel,145,58.9,2.0
+18229, 1 Series,2014,Manual,67610,Diesel,0,74.3,1.6
+18230, 1 Series,2017,Manual,26050,Diesel,145,68.9,2.0
+18231, 1 Series,2016,Manual,26589,Diesel,0,83.1,1.5
+18232, 5 Series,2012,Manual,73350,Diesel,125,57.6,2.0
+18233, 3 Series,2017,Automatic,12099,Diesel,145,64.2,2.0
+18234, 1 Series,2017,Automatic,29828,Diesel,20,67.3,2.0
+18235, X3,2017,Automatic,53325,Diesel,145,54.3,2.0
+18236, 1 Series,2015,Automatic,44033,Diesel,20,72.4,1.5
+18237, 2 Series,2015,Manual,54813,Diesel,30,60.1,2.0
+18238, 3 Series,2017,Automatic,53055,Other,0,134.5,2.0
+18239, 2 Series,2016,Manual,68489,Diesel,30,64.2,2.0
+18240, 1 Series,2016,Automatic,21748,Diesel,20,67.3,2.0
+18241, 5 Series,2017,Automatic,41284,Diesel,20,68.9,2.0
+18242, 5 Series,2017,Automatic,37139,Diesel,125,60.1,2.0
+18243, 4 Series,2016,Automatic,43283,Diesel,125,58.9,2.0
+18244, 1 Series,2017,Manual,54883,Diesel,150,65.7,2.0
+18245, 1 Series,2017,Automatic,20194,Petrol,150,47.9,2.0
+18246, 1 Series,2017,Manual,31727,Diesel,145,62.8,2.0
+18247, 1 Series,2017,Manual,47674,Diesel,145,68.9,2.0
+18248, X1,2012,Automatic,53524,Diesel,165,52.3,2.0
+18249, 5 Series,2017,Automatic,28935,Diesel,150,65.7,2.0
+18250, 4 Series,2017,Manual,38840,Diesel,125,60.1,2.0
+18251, 4 Series,2018,Automatic,21387,Petrol,150,48.7,2.0
+18252, X3,2015,Manual,69197,Diesel,160,52.3,2.0
+18253, X1,2017,Automatic,24852,Diesel,150,65.7,2.0
+18254, 3 Series,2016,Automatic,25598,Diesel,150,54.3,3.0
+18255, 1 Series,2017,Manual,37487,Diesel,0,78.5,1.5
+18256, 3 Series,2016,Automatic,31940,Diesel,30,64.2,2.0
+18257, 3 Series,2017,Manual,29783,Petrol,125,52.3,1.5
+18258, 3 Series,2015,Manual,71636,Diesel,20,68.9,2.0
+18259, X3,2017,Automatic,51206,Diesel,145,54.3,2.0
+18260, 3 Series,2017,Manual,39497,Diesel,30,64.2,2.0
+18261, X1,2018,Automatic,38209,Petrol,150,46.3,1.5
+18262, 2 Series,2017,Manual,33859,Diesel,30,64.2,2.0
+18263, 1 Series,2016,Automatic,20544,Petrol,125,54.3,1.5
+18264, 1 Series,2017,Automatic,55415,Diesel,145,67.3,2.0
+18265, 3 Series,2014,Manual,73766,Diesel,30,61.4,2.0
+18266, 5 Series,2016,Automatic,39995,Diesel,125,60.1,2.0
+18267, 3 Series,2017,Automatic,22457,Diesel,160,49.6,3.0
+18268, 1 Series,2016,Manual,33725,Diesel,0,83.1,1.5
+18269, X3,2016,Automatic,33309,Diesel,145,54.3,2.0
+18270, 3 Series,2017,Manual,20983,Petrol,145,52.3,1.5
+18271, 3 Series,2017,Automatic,14173,Petrol,145,54.3,1.5
+18272, 3 Series,2014,Manual,59776,Petrol,165,44.8,2.0
+18273, 1 Series,2017,Manual,39374,Diesel,145,65.7,2.0
+18274, 3 Series,2017,Automatic,23243,Petrol,165,44.8,2.0
+18275, 5 Series,2014,Automatic,59239,Diesel,150,55.4,2.0
+18276, 3 Series,2017,Automatic,41162,Other,135,148.7,2.0
+18277, X3,2016,Automatic,14739,Diesel,145,54.3,2.0
+18278, X4,2015,Automatic,32101,Diesel,200,47.9,3.0
+18279, 3 Series,2017,Automatic,28571,Diesel,145,53.3,3.0
+18280, X3,2013,Automatic,78855,Diesel,160,50.4,2.0
+18281, 3 Series,2018,Automatic,36287,Petrol,145,48.7,2.0
+18282, 3 Series,2017,Manual,65213,Petrol,125,52.3,1.5
+18283, 3 Series,2017,Automatic,21877,Diesel,150,51.4,3.0
+18284, 5 Series,2016,Automatic,33472,Diesel,30,62.8,2.0
+18285, X3,2017,Automatic,17504,Diesel,145,54.3,2.0
+18286, X3,2014,Automatic,70114,Diesel,160,50.4,2.0
+18287, 3 Series,2017,Manual,45616,Diesel,20,68.9,2.0
+18288, 1 Series,2017,Manual,23787,Diesel,0,83.1,1.5
+18289, 4 Series,2015,Automatic,76660,Diesel,125,57.6,2.0
+18290, i3,2016,Automatic,41063,Other,0,470.8,0.6
+18291, 4 Series,2016,Automatic,34938,Petrol,160,45.6,2.0
+18292, 4 Series,2013,Automatic,34704,Petrol,160,44.1,2.0
+18293, 5 Series,2016,Automatic,57784,Diesel,20,68.9,2.0
+18294, 4 Series,2016,Automatic,89849,Diesel,20,70.6,2.0
+18295, 1 Series,2016,Manual,27848,Petrol,125,53.3,1.5
+18296, X1,2017,Manual,21600,Diesel,145,68.9,2.0
+18297, 4 Series,2014,Automatic,62768,Petrol,235,38.2,3.0
+18298, 4 Series,2018,Automatic,9482,Petrol,145,48.7,2.0
+18299, X4,2015,Automatic,51532,Diesel,145,54.3,2.0
+18300, 1 Series,2018,Automatic,9086,Petrol,145,37.2,1.5
+18301, 3 Series,2017,Automatic,22865,Diesel,145,49.6,3.0
+18302, 1 Series,2017,Manual,25510,Diesel,30,62.8,2.0
+18303, X6,2013,Automatic,77014,Diesel,300,38.2,3.0
+18304, 3 Series,2018,Automatic,19662,Diesel,145,64.2,2.0
+18305, 3 Series,2017,Automatic,83055,Petrol,125,51.4,1.5
+18306, 1 Series,2016,Manual,28072,Diesel,30,65.7,2.0
+18307, 2 Series,2017,Automatic,20996,Diesel,20,68.9,2.0
+18308, 1 Series,2018,Automatic,32383,Petrol,145,32.5,3.0
+18309, 3 Series,2019,Automatic,8426,Petrol,145,34.9,3.0
+18310, X3,2017,Manual,30483,Diesel,160,52.3,2.0
+18311, M6,2014,Automatic,34000,Petrol,565,28.5,4.4
+18312, 3 Series,2017,Automatic,28140,Diesel,160,51.4,3.0
+18313, 5 Series,2016,Automatic,49313,Diesel,125,60.1,2.0
+18314, 3 Series,2017,Automatic,39428,Other,0,148.7,2.0
+18315, X1,2017,Automatic,22461,Diesel,145,65.7,2.0
+18316, X5,2014,Automatic,59307,Diesel,160,50.4,2.0
+18317, X1,2016,Manual,32776,Diesel,20,68.9,2.0
+18318, 1 Series,2016,Manual,45820,Petrol,125,53.3,1.5
+18319, 5 Series,2015,Automatic,86151,Diesel,145,53.3,3.0
+18320, 1 Series,2017,Manual,47747,Diesel,20,68.9,2.0
+18321, 4 Series,2017,Automatic,18295,Petrol,145,48.7,2.0
+18322, 1 Series,2016,Automatic,22322,Petrol,30,55.5,1.5
+18323, 3 Series,2017,Manual,32903,Petrol,145,48.7,2.0
+18324, 1 Series,2016,Manual,32268,Petrol,125,52.3,1.5
+18325, 3 Series,2016,Manual,27663,Diesel,30,64.2,2.0
+18326, X5,2013,Automatic,42815,Diesel,300,37.7,3.0
+18327, 5 Series,2006,Automatic,97000,Petrol,565,29.7,2.5
+18328, 3 Series,2014,Automatic,28000,Diesel,30,62.8,2.0
+18329, 4 Series,2014,Automatic,82000,Diesel,160,52.3,3.0
+18330, X3,2014,Automatic,76748,Diesel,145,54.3,2.0
+18331, X3,2016,Automatic,74659,Diesel,145,54.3,2.0
+18332, 5 Series,2017,Automatic,62352,Diesel,145,65.7,2.0
+18333, X3,2017,Automatic,44132,Diesel,145,54.3,2.0
+18334, 1 Series,2017,Manual,50927,Diesel,145,72.4,1.5
+18335, X4,2017,Automatic,44397,Diesel,200,47.1,3.0
+18336, 4 Series,2018,Automatic,48052,Petrol,145,48.7,2.0
+18337, 5 Series,2015,Automatic,45065,Diesel,20,68.9,2.0
+18338, X4,2016,Automatic,24881,Diesel,145,54.3,2.0
+18339, 1 Series,2016,Manual,33489,Diesel,0,83.1,1.5
+18340, X5,2016,Automatic,35499,Diesel,200,47.1,3.0
+18341, 3 Series,2014,Manual,63728,Diesel,125,58.9,2.0
+18342, 1 Series,2016,Automatic,14072,Diesel,20,68.9,1.5
+18343, 4 Series,2017,Automatic,36207,Diesel,145,65.7,2.0
+18344, X1,2016,Automatic,36721,Diesel,125,57.6,2.0
+18345, M4,2017,Automatic,52911,Petrol,300,34.0,3.0
+18346, 3 Series,2017,Automatic,21337,Diesel,200,49.6,3.0
+18347, 1 Series,2016,Manual,29246,Petrol,125,53.3,1.5
+18348, 1 Series,2017,Manual,44210,Diesel,145,68.9,2.0
+18349, 1 Series,2017,Manual,32363,Diesel,20,70.6,1.5
+18350, 5 Series,2015,Manual,85725,Diesel,30,65.7,2.0
+18351, 3 Series,2013,Manual,88592,Diesel,125,58.9,2.0
+18352, 1 Series,2016,Manual,44028,Diesel,20,72.4,1.5
+18353, 1 Series,2017,Manual,41462,Diesel,20,68.9,2.0
+18354, 5 Series,2014,Automatic,69722,Diesel,160,51.4,3.0
+18355, 2 Series,2015,Manual,13000,Petrol,300,34.9,3.0
+18356, 2 Series,2015,Automatic,26000,Petrol,160,47.1,2.0
+18357, 4 Series,2015,Automatic,35000,Diesel,30,65.7,2.0
+18358, 3 Series,2013,Automatic,102000,Diesel,30,62.8,2.0
+18359, X6,2011,Automatic,96000,Diesel,300,37.7,3.0
+18360, 1 Series,2017,Automatic,29019,Diesel,145,65.7,2.0
+18361, 1 Series,2013,Manual,67444,Petrol,145,50.4,1.6
+18362, 1 Series,2017,Automatic,25933,Diesel,20,72.4,1.5
+18363, 3 Series,2016,Automatic,55100,Diesel,145,54.3,3.0
+18364, 1 Series,2015,Manual,61959,Diesel,20,68.9,2.0
+18365, 3 Series,2016,Automatic,53745,Diesel,145,54.3,3.0
+18366, X1,2018,Automatic,20017,Petrol,145,44.8,2.0
+18367, 3 Series,2013,Manual,96308,Diesel,125,60.1,2.0
+18368, 3 Series,2017,Automatic,33131,Petrol,125,54.3,1.5
+18369, 2 Series,2017,Automatic,23610,Petrol,150,51.4,1.5
+18370, 1 Series,2017,Manual,36642,Diesel,150,68.9,2.0
+18371, 3 Series,2016,Automatic,59434,Diesel,20,70.6,2.0
+18372, 3 Series,2016,Manual,45799,Diesel,30,64.2,2.0
+18373, 1 Series,2014,Automatic,42927,Petrol,150,48.7,1.6
+18374, 1 Series,2017,Manual,37842,Diesel,145,68.9,2.0
+18375, 3 Series,2017,Manual,36504,Diesel,30,67.3,2.0
+18376, 3 Series,2017,Automatic,36226,Other,140,148.7,2.0
+18377, X3,2016,Automatic,43956,Diesel,145,54.3,2.0
+18378, 3 Series,2017,Manual,22712,Diesel,30,64.2,2.0
+18379, 5 Series,2017,Automatic,21236,Diesel,145,60.1,3.0
+18380, 4 Series,2016,Automatic,77969,Diesel,20,70.6,2.0
+18381, 5 Series,2012,Automatic,53632,Diesel,125,57.6,2.0
+18382, 5 Series,2016,Automatic,55120,Diesel,30,62.8,2.0
+18383, 4 Series,2018,Automatic,50159,Petrol,150,48.7,2.0
+18384, 1 Series,2018,Automatic,8404,Petrol,150,37.2,1.5
+18385, X1,2017,Automatic,48364,Diesel,150,55.4,2.0
+18386, 3 Series,2013,Manual,50139,Diesel,30,62.8,2.0
+18387, X1,2016,Manual,88387,Diesel,20,68.9,2.0
+18388, X1,2018,Automatic,19063,Petrol,145,44.8,2.0
+18389, 1 Series,2015,Manual,81750,Diesel,0,74.3,1.6
+18390, 3 Series,2016,Manual,33301,Petrol,145,49.6,1.5
+18391, 3 Series,2015,Automatic,27152,Diesel,125,58.9,2.0
+18392, X3,2015,Automatic,42437,Diesel,145,54.3,2.0
+18393, 1 Series,2018,Automatic,8303,Petrol,145,37.2,1.5
+18394, X3,2016,Automatic,25752,Diesel,145,54.3,2.0
+18395, 3 Series,2016,Automatic,91707,Diesel,150,53.3,3.0
+18396, X1,2016,Automatic,17151,Diesel,30,65.7,2.0
+18397, 1 Series,2017,Manual,26505,Diesel,0,83.1,1.5
+18398, 2 Series,2016,Manual,37351,Diesel,20,68.9,2.0
+18399, 4 Series,2018,Automatic,20024,Petrol,145,45.6,2.0
+18400, 5 Series,2016,Automatic,16095,Diesel,30,62.8,2.0
+18401, 3 Series,2016,Automatic,40128,Diesel,30,64.2,2.0
+18402, 3 Series,2017,Automatic,88227,Petrol,125,54.3,1.5
+18403, 5 Series,2017,Automatic,64845,Diesel,150,68.9,2.0
+18404, 1 Series,2016,Manual,17705,Petrol,125,52.3,1.5
+18405, 6 Series,2017,Automatic,27828,Diesel,200,49.6,3.0
+18406, 3 Series,2017,Automatic,47495,Other,135,134.5,2.0
+18407, 1 Series,2016,Manual,49199,Diesel,0,83.1,1.5
+18408, X3,2015,Automatic,34835,Diesel,200,47.1,3.0
+18409, 3 Series,2017,Manual,44596,Petrol,150,48.7,2.0
+18410, 3 Series,2015,Manual,52663,Diesel,30,61.4,2.0
+18411, 5 Series,2017,Automatic,24212,Diesel,125,60.1,2.0
+18412, 1 Series,2016,Manual,38700,Petrol,125,52.3,1.5
+18413, 1 Series,2015,Manual,30755,Diesel,0,83.1,1.5
+18414, 1 Series,2017,Manual,30393,Diesel,0,78.5,1.5
+18415, X1,2016,Manual,35746,Diesel,20,68.9,2.0
+18416, 3 Series,2015,Automatic,74317,Diesel,150,55.4,2.0
+18417, 2 Series,2016,Manual,72422,Diesel,20,68.9,2.0
+18418, X3,2017,Automatic,35902,Diesel,150,54.3,2.0
+18419, 2 Series,2016,Manual,56812,Diesel,20,68.9,2.0
+18420, 3 Series,2015,Manual,58878,Diesel,20,72.4,2.0
+18421, 4 Series,2017,Automatic,23772,Petrol,145,45.6,2.0
+18422, 4 Series,2016,Automatic,35376,Diesel,30,65.7,2.0
+18423, X3,2015,Automatic,58802,Diesel,145,54.3,2.0
+18424, 2 Series,2017,Automatic,24194,Petrol,145,53.3,1.5
+18425, 1 Series,2018,Automatic,9877,Petrol,145,37.2,1.5
+18426, 7 Series,2013,Automatic,81035,Diesel,160,50.4,3.0
+18427, 3 Series,2017,Manual,32068,Diesel,30,64.2,2.0
+18428, X5,2014,Automatic,56232,Diesel,205,45.6,3.0
+18429, 3 Series,2016,Manual,90161,Diesel,30,67.3,2.0
+18430, 3 Series,2014,Automatic,37334,Diesel,30,62.8,2.0
+18431, 1 Series,2017,Manual,21166,Diesel,150,72.4,1.5
+18432, 3 Series,2012,Manual,55810,Petrol,160,44.8,2.0
+18433, X1,2017,Automatic,40243,Diesel,150,60.1,2.0
+18434, 2 Series,2017,Automatic,31096,Diesel,150,68.9,2.0
+18435, 3 Series,2017,Automatic,68875,Other,140,134.5,2.0
+18436, X1,2013,Manual,72565,Diesel,125,57.6,2.0
+18437, 1 Series,2016,Manual,32325,Diesel,30,62.8,2.0
+18438, X5,2019,Automatic,15753,Petrol,145,27.2,3.0
+18439, X3,2016,Automatic,80895,Diesel,145,54.3,2.0
+18440, 5 Series,2016,Automatic,57232,Diesel,20,68.9,2.0
+18441, X1,2017,Manual,38310,Diesel,20,68.9,2.0
+18442, 2 Series,2015,Automatic,20452,Diesel,20,68.9,2.0
+18443, 4 Series,2016,Manual,19415,Diesel,30,65.7,2.0
+18444, 3 Series,2016,Manual,33270,Petrol,150,48.7,2.0
+18445, 1 Series,2016,Manual,36615,Petrol,125,53.3,1.5
+18446, X3,2013,Automatic,63023,Diesel,165,50.4,2.0
+18447, 3 Series,2016,Automatic,58174,Diesel,30,67.3,2.0
+18448, 3 Series,2016,Manual,88378,Diesel,30,68.9,2.0
+18449, 4 Series,2016,Automatic,57991,Diesel,30,65.7,2.0
+18450, 3 Series,2015,Automatic,61980,Diesel,125,57.6,2.0
+18451, 1 Series,2016,Manual,68332,Diesel,20,68.9,2.0
+18452, 1 Series,2016,Automatic,16426,Diesel,30,62.8,2.0
+18453, 5 Series,2013,Automatic,76541,Diesel,150,55.4,2.0
+18454, 1 Series,2016,Automatic,34922,Diesel,20,70.6,2.0
+18455, 1 Series,2018,Automatic,20819,Petrol,150,39.8,3.0
+18456, X1,2016,Automatic,62562,Diesel,30,65.7,2.0
+18457, 3 Series,2016,Manual,82156,Petrol,125,52.3,1.5
+18458, 3 Series,2017,Manual,33600,Diesel,30,64.2,2.0
+18459, 2 Series,2016,Manual,30183,Diesel,30,65.7,2.0
+18460, 2 Series,2016,Manual,48551,Petrol,145,47.1,1.5
+18461, 5 Series,2016,Automatic,33527,Diesel,30,62.8,2.0
+18462, X6,2014,Automatic,34990,Diesel,305,38.2,3.0
+18463, 4 Series,2015,Automatic,92236,Diesel,150,51.4,3.0
+18464, 1 Series,2016,Automatic,32734,Diesel,20,70.6,2.0
+18465, 1 Series,2016,Manual,19259,Petrol,125,53.3,1.5
+18466, 5 Series,2016,Automatic,27710,Diesel,30,62.8,2.0
+18467, X4,2015,Automatic,54116,Diesel,205,47.9,3.0
+18468, 1 Series,2017,Automatic,31834,Diesel,125,60.1,2.0
+18469, X1,2017,Automatic,34525,Diesel,30,65.7,2.0
+18470, X1,2017,Manual,24690,Diesel,20,68.9,2.0
+18471, X1,2017,Automatic,37869,Diesel,30,65.7,2.0
+18472, 3 Series,2014,Manual,84392,Diesel,30,62.8,2.0
+18473, X1,2016,Manual,35481,Diesel,20,68.9,2.0
+18474, 3 Series,2018,Automatic,23449,Diesel,145,64.2,2.0
+18475, 1 Series,2017,Manual,46130,Diesel,0,78.5,1.5
+18476, 5 Series,2016,Automatic,32344,Diesel,125,60.1,2.0
+18477, 3 Series,2017,Manual,45462,Diesel,145,67.3,2.0
+18478, 1 Series,2016,Manual,27920,Petrol,125,53.3,1.5
+18479, X1,2017,Automatic,41890,Diesel,145,65.7,2.0
+18480, X3,2018,Automatic,30847,Diesel,145,54.3,2.0
+18481, 3 Series,2014,Automatic,79809,Diesel,20,68.9,2.0
+18482, X1,2017,Manual,46134,Diesel,150,68.9,2.0
+18483, 1 Series,2017,Manual,85940,Diesel,0,83.1,1.5
+18484, X3,2016,Automatic,64833,Diesel,145,54.3,2.0
+18485, 1 Series,2017,Automatic,8946,Diesel,145,70.6,2.0
+18486, 3 Series,2017,Automatic,52872,Diesel,150,74.3,2.0
+18487, 3 Series,2012,Manual,79480,Diesel,125,58.9,2.0
+18488, 3 Series,2017,Manual,34098,Diesel,145,64.2,2.0
+18489, X1,2017,Automatic,25683,Diesel,150,57.6,2.0
+18490, X3,2017,Automatic,36818,Diesel,145,54.3,2.0
+18491, 1 Series,2017,Manual,18825,Petrol,125,53.3,1.5
+18492, 1 Series,2015,Manual,36383,Petrol,125,53.3,1.5
+18493, 4 Series,2016,Automatic,41838,Diesel,145,54.3,2.0
+18494, 5 Series,2017,Automatic,30379,Diesel,125,60.1,2.0
+18495, i3,2017,Automatic,50867,Other,135,470.8,0.6
+18496, 3 Series,2017,Automatic,63887,Diesel,125,57.6,2.0
+18497, X3,2017,Automatic,75786,Diesel,145,54.3,2.0
+18498, 3 Series,2016,Automatic,64447,Diesel,125,60.1,2.0
+18499, 3 Series,2016,Manual,24160,Diesel,125,58.9,2.0
+18500, 1 Series,2018,Automatic,8604,Petrol,145,37.2,1.5
+18501, 3 Series,2016,Manual,27796,Petrol,205,43.5,2.0
+18502, 1 Series,2018,Manual,21076,Petrol,145,47.1,2.0
+18503, 1 Series,2017,Manual,37337,Diesel,20,70.6,1.5
+18504, 5 Series,2016,Automatic,69736,Diesel,30,62.8,2.0
+18505, 1 Series,2018,Manual,21593,Petrol,145,53.3,1.5
+18506, 3 Series,2016,Manual,27399,Petrol,145,47.9,2.0
+18507, 1 Series,2016,Manual,30902,Diesel,20,72.4,1.5
+18508, 3 Series,2016,Automatic,59201,Diesel,20,70.6,2.0
+18509, X1,2017,Automatic,28161,Diesel,125,57.6,2.0
+18510, 5 Series,2015,Automatic,60337,Diesel,30,62.8,2.0
+18511, 3 Series,2017,Automatic,34298,Diesel,30,64.2,2.0
+18512, 3 Series,2016,Automatic,37170,Diesel,30,65.7,2.0
+18513, 3 Series,2016,Automatic,19786,Diesel,30,67.3,2.0
+18514, X1,2017,Manual,46912,Diesel,145,68.9,2.0
+18515, 3 Series,2016,Automatic,66173,Diesel,125,60.1,2.0
+18516, 3 Series,2015,Automatic,86731,Diesel,145,55.4,2.0
+18517, 3 Series,2017,Automatic,44255,Diesel,145,54.3,3.0
+18518, X3,2016,Automatic,37075,Diesel,200,47.9,3.0
+18519, 3 Series,2017,Automatic,35134,Diesel,145,64.2,2.0
+18520, 6 Series,2014,Automatic,67476,Diesel,160,49.6,3.0
+18521, 3 Series,2017,Automatic,49373,Diesel,145,70.6,2.0
+18522, 1 Series,2015,Automatic,33449,Diesel,20,68.9,1.5
+18523, 1 Series,2016,Manual,9803,Petrol,125,53.3,1.5
+18524, 1 Series,2017,Manual,38664,Diesel,0,83.1,1.5
+18525, 1 Series,2016,Manual,31469,Diesel,20,68.9,2.0
+18526, 1 Series,2017,Manual,36811,Diesel,20,72.4,1.5
+18527, 1 Series,2017,Manual,40160,Diesel,30,62.8,2.0
+18528, 1 Series,2015,Manual,25997,Diesel,20,68.9,2.0
+18529, X1,2016,Automatic,22177,Diesel,125,60.1,2.0
+18530, 5 Series,2015,Manual,68310,Diesel,30,65.7,2.0
+18531, X1,2017,Automatic,18404,Diesel,145,60.1,2.0
+18532, 3 Series,2016,Manual,39313,Diesel,30,62.8,2.0
+18533, 5 Series,2016,Automatic,57790,Diesel,30,65.7,2.0
+18534, 5 Series,2017,Automatic,39773,Diesel,125,60.1,2.0
+18535, 1 Series,2016,Manual,8411,Diesel,30,65.7,2.0
+18536, 3 Series,2016,Automatic,42043,Diesel,125,60.1,2.0
+18537, 3 Series,2019,Automatic,10206,Petrol,145,47.9,2.0
+18538, 2 Series,2017,Automatic,17740,Diesel,150,68.9,2.0
+18539, 1 Series,2016,Manual,29733,Petrol,125,53.3,1.5
+18540, 5 Series,2016,Automatic,37933,Diesel,165,50.4,3.0
+18541, 1 Series,2014,Automatic,29432,Diesel,20,68.9,2.0
+18542, 4 Series,2017,Automatic,27846,Diesel,160,49.6,3.0
+18543, X1,2016,Manual,41694,Diesel,125,60.1,2.0
+18544, X3,2016,Automatic,43211,Diesel,200,47.9,3.0
+18545, X1,2016,Manual,29541,Diesel,125,60.1,2.0
+18546, 3 Series,2017,Automatic,34544,Diesel,145,56.5,3.0
+18547, 3 Series,2017,Automatic,39594,Diesel,160,51.4,3.0
+18548, 1 Series,2018,Manual,20758,Petrol,145,53.3,1.5
+18549, 1 Series,2017,Manual,60281,Diesel,20,70.6,1.5
+18550, 3 Series,2016,Manual,47821,Diesel,30,64.2,2.0
+18551, 1 Series,2016,Manual,23533,Diesel,30,65.7,2.0
+18552, 5 Series,2018,Automatic,16455,Petrol,145,37.7,2.0
+18553, 3 Series,2016,Manual,30937,Diesel,30,64.2,2.0
+18554, X4,2015,Automatic,26928,Diesel,200,47.9,3.0
+18555, 2 Series,2016,Manual,25525,Diesel,125,61.4,2.0
+18556, 3 Series,2014,Automatic,65423,Diesel,125,58.9,2.0
+18557, 4 Series,2017,Automatic,63197,Diesel,160,49.6,3.0
+18558, 1 Series,2017,Manual,18942,Petrol,145,53.3,1.5
+18559, X3,2017,Automatic,39809,Diesel,145,54.3,2.0
+18560, X3,2017,Automatic,44585,Diesel,145,54.3,2.0
+18561, X1,2017,Automatic,35451,Diesel,145,65.7,2.0
+18562, X3,2017,Automatic,27385,Diesel,145,54.3,2.0
+18563, 1 Series,2018,Automatic,9951,Petrol,145,37.2,1.5
+18564, 4 Series,2016,Automatic,30556,Diesel,30,62.8,2.0
+18565, X5,2013,Automatic,59187,Diesel,300,38.2,3.0
+18566, 4 Series,2016,Automatic,83359,Diesel,30,65.7,2.0
+18567, 3 Series,2013,Manual,78090,Diesel,145,56.5,2.0
+18568, 1 Series,2016,Manual,10063,Petrol,145,46.3,2.0
+18569, X1,2017,Automatic,45915,Petrol,165,44.8,2.0
+18570, X1,2017,Automatic,26573,Diesel,150,65.7,2.0
+18571, X1,2016,Automatic,45880,Diesel,30,65.7,2.0
+18572, 3 Series,2014,Automatic,74534,Diesel,125,58.9,2.0
+18573, 3 Series,2017,Manual,27393,Diesel,30,64.2,2.0
+18574, 3 Series,2017,Automatic,41387,Diesel,160,51.4,3.0
+18575, X3,2016,Automatic,36157,Diesel,200,47.9,3.0
+18576, 3 Series,2015,Manual,30661,Diesel,30,67.3,2.0
+18577, 5 Series,2015,Manual,23932,Diesel,125,60.1,2.0
+18578, 3 Series,2016,Manual,27184,Diesel,125,58.9,2.0
+18579, 3 Series,2017,Automatic,86735,Diesel,30,64.2,2.0
+18580, 3 Series,2015,Manual,46015,Diesel,125,58.9,2.0
+18581, 1 Series,2017,Manual,38872,Diesel,145,68.9,2.0
+18582, 1 Series,2016,Manual,44384,Diesel,20,68.9,2.0
+18583, 1 Series,2016,Manual,45719,Diesel,0,83.1,1.5
+18584, X5,2017,Automatic,35061,Diesel,145,47.1,3.0
+18585, X3,2016,Automatic,24435,Diesel,200,47.9,3.0
+18586, X5,2016,Automatic,57605,Other,0,85.6,2.0
+18587, 3 Series,2015,Automatic,62139,Petrol,200,41.5,2.0
+18588, 4 Series,2015,Manual,56741,Diesel,30,62.8,2.0
+18589, X3,2016,Automatic,70232,Diesel,200,47.9,3.0
+18590, 3 Series,2015,Automatic,47404,Petrol,160,45.6,2.0
+18591, X1,2016,Automatic,15777,Diesel,30,65.7,2.0
+18592, 1 Series,2015,Automatic,25345,Petrol,145,48.7,1.6
+18593, 5 Series,2019,Automatic,9420,Petrol,145,50.4,2.0
+18594, 1 Series,2017,Manual,19454,Diesel,145,72.4,1.5
+18595, 1 Series,2016,Manual,59137,Diesel,20,68.9,2.0
+18596, X1,2017,Automatic,19785,Diesel,145,60.1,2.0
+18597, X1,2016,Manual,21876,Diesel,125,60.1,2.0
+18598, 5 Series,2014,Automatic,46042,Diesel,20,68.9,2.0
+18599, 1 Series,2017,Manual,28507,Diesel,145,72.4,1.5
+18600, X3,2016,Automatic,47452,Diesel,145,54.3,2.0
+18601, 3 Series,2017,Automatic,15939,Diesel,145,64.2,2.0
+18602, X3,2013,Automatic,64455,Diesel,160,50.4,2.0
+18603, 3 Series,2016,Manual,19655,Petrol,145,48.7,2.0
+18604, 1 Series,2016,Manual,31517,Petrol,30,56.5,1.5
+18605, 1 Series,2019,Automatic,8285,Petrol,145,36.7,1.5
+18606, 5 Series,2016,Automatic,28217,Diesel,30,62.8,2.0
+18607, 5 Series,2019,Automatic,11476,Petrol,145,50.4,2.0
+18608, 3 Series,2016,Manual,43015,Diesel,145,56.5,2.0
+18609, 1 Series,2016,Manual,34775,Petrol,125,53.3,1.5
+18610, X1,2017,Automatic,25227,Petrol,160,44.8,2.0
+18611, X1,2016,Automatic,45356,Diesel,125,60.1,2.0
+18612, 3 Series,2016,Automatic,83465,Petrol,125,51.4,2.0
+18613, 1 Series,2015,Manual,48746,Diesel,20,72.4,1.5
+18614, 3 Series,2015,Automatic,85314,Diesel,20,70.6,2.0
+18615, 4 Series,2017,Automatic,25220,Diesel,30,65.7,2.0
+18616, X4,2016,Automatic,42576,Diesel,200,47.9,3.0
+18617, 3 Series,2016,Automatic,38438,Other,0,134.5,2.0
+18618, 3 Series,2017,Automatic,34437,Diesel,145,56.5,3.0
+18619, 1 Series,2017,Manual,11185,Diesel,145,72.4,1.5
+18620, 3 Series,2015,Automatic,44621,Diesel,125,58.9,2.0
+18621, 1 Series,2017,Manual,58023,Diesel,20,68.9,2.0
+18622, X3,2009,Automatic,95000,Diesel,260,42.2,2.0
+18623, 1 Series,2014,Manual,20000,Petrol,280,35.3,3.0
+18624, 1 Series,2009,Manual,103000,Petrol,160,46.3,2.0
+18625, 3 Series,2010,Manual,119000,Petrol,160,44.8,2.0
+18626, X1,2016,Automatic,8000,Petrol,160,44.8,2.0
+18627, X1,2017,Automatic,8000,Diesel,30,65.7,2.0
+18628, 2 Series,2019,Automatic,1000,Petrol,145,50.4,2.0
+18629, 3 Series,2016,Automatic,103000,Diesel,30,64.2,2.0
+18630, 3 Series,2014,Manual,47318,Diesel,125,58.9,2.0
+18631, 3 Series,2016,Manual,25385,Petrol,160,42.2,2.0
+18632, 1 Series,2017,Manual,27038,Diesel,145,78.5,1.5
+18633, 3 Series,2014,Automatic,36034,Diesel,30,62.8,2.0
+18634, 4 Series,2015,Automatic,23000,Diesel,145,56.5,2.0
+18635, 1 Series,2018,Automatic,4666,Petrol,145,32.5,3.0
+18636, 1 Series,2014,Manual,29824,Petrol,150,48.7,1.6
+18637, 3 Series,2016,Automatic,35090,Diesel,30,62.8,2.0
+18638, 3 Series,2015,Automatic,89343,Diesel,30,62.8,2.0
+18639, 3 Series,2015,Automatic,38998,Diesel,30,62.8,2.0
+18640, 3 Series,2016,Manual,59222,Diesel,125,60.1,2.0
+18641, X3,2016,Automatic,35671,Diesel,145,54.3,2.0
+18642, 3 Series,2016,Manual,57918,Diesel,125,58.9,2.0
+18643, X4,2017,Automatic,13200,Diesel,145,47.9,3.0
+18644, 1 Series,2017,Manual,14526,Petrol,125,52.3,1.5
+18645, 2 Series,2016,Automatic,67000,Petrol,160,46.3,2.0
+18646, 2 Series,2019,Automatic,10000,Petrol,145,47.9,2.0
+18647, 1 Series,2016,Manual,33043,Diesel,30,62.8,2.0
+18648, 4 Series,2017,Automatic,61355,Diesel,160,51.4,3.0
+18649, X4,2017,Automatic,58056,Diesel,145,54.3,2.0
+18650, 1 Series,2016,Manual,36792,Diesel,20,68.9,2.0
+18651, X1,2017,Automatic,47047,Diesel,145,55.4,2.0
+18652, 4 Series,2016,Automatic,26194,Petrol,160,45.6,2.0
+18653, 3 Series,2015,Manual,32412,Petrol,125,52.3,1.5
+18654, X1,2016,Manual,45479,Diesel,125,58.9,2.0
+18655, 5 Series,2019,Automatic,12541,Petrol,145,50.4,2.0
+18656, 2 Series,2016,Automatic,22500,Diesel,30,67.3,2.0
+18657, X6,2016,Automatic,33500,Diesel,240,42.8,3.0
+18658, 4 Series,2015,Automatic,39000,Diesel,30,65.7,2.0
+18659, 3 Series,2016,Automatic,19500,Petrol,205,40.4,3.0
+18660, 3 Series,2017,Automatic,22300,Diesel,205,49.6,3.0
+18661, 3 Series,2015,Manual,37500,Petrol,205,42.8,2.0
+18662, 3 Series,2015,Automatic,43000,Diesel,160,51.4,3.0
+18663, 1 Series,2016,Automatic,36500,Petrol,145,47.9,2.0
+18664, 1 Series,2016,Manual,30000,Diesel,30,62.8,2.0
+18665, 3 Series,2015,Automatic,36000,Diesel,160,52.3,3.0
+18666, X3,2016,Automatic,41000,Diesel,150,54.3,2.0
+18667, 3 Series,2017,Automatic,28000,Diesel,205,49.6,3.0
+18668, 4 Series,2017,Automatic,27000,Petrol,150,48.7,2.0
+18669, 3 Series,2010,Automatic,59777,Petrol,265,35.8,3.0
+18670, 1 Series,2013,Automatic,24000,Petrol,205,40.9,2.0
+18671, 3 Series,2017,Automatic,15000,Diesel,145,51.4,3.0
+18672, X6,2014,Automatic,35269,Diesel,300,38.2,3.0
+18673, 3 Series,2009,Manual,125000,Petrol,240,39.8,3.0
+18674, 1 Series,2018,Automatic,7574,Petrol,145,39.8,3.0
+18675, 3 Series,2018,Automatic,8721,Petrol,145,43.5,2.0
+18676, 3 Series,2017,Automatic,22248,Diesel,150,64.2,2.0
+18677, 2 Series,2019,Manual,313,Petrol,150,39.8,1.5
+18678, 3 Series,2020,Automatic,1255,Petrol,150,47.9,2.0
+18679, 3 Series,2005,Manual,130000,Petrol,315,31.4,2.5
+18680, X5,2015,Automatic,47000,Diesel,200,47.1,3.0
+18681, X3,2015,Automatic,36275,Diesel,145,54.3,2.0
+18682, 1 Series,2016,Automatic,25138,Diesel,20,67.3,2.0
+18683, 1 Series,2016,Manual,61786,Diesel,0,83.1,1.5
+18684, 3 Series,2017,Automatic,49877,Diesel,145,65.7,2.0
+18685, X1,2017,Automatic,11000,Diesel,150,60.1,2.0
+18686, 1 Series,2011,Manual,78889,Diesel,150,55.4,2.0
+18687, 1 Series,2010,Manual,69000,Diesel,125,57.6,2.0
+18688, 3 Series,2014,Automatic,45000,Diesel,30,62.8,2.0
+18689, M3,2005,Manual,115000,Petrol,315,20.8,3.2
+18690, 1 Series,2017,Automatic,47477,Diesel,145,65.7,2.0
+18691, 1 Series,2014,Manual,39390,Diesel,30,65.7,2.0
+18692, 3 Series,2017,Automatic,27232,Other,135,134.5,2.0
+18693, X1,2015,Automatic,44978,Diesel,125,57.6,2.0
+18694, 1 Series,2016,Manual,41103,Diesel,0,83.1,1.5
+18695, 5 Series,2018,Automatic,51413,Diesel,145,68.9,2.0
+18696, 1 Series,2016,Automatic,29878,Diesel,30,65.7,2.0
+18697, 5 Series,2013,Automatic,33279,Diesel,120,60.1,2.0
+18698, 2 Series,2014,Manual,57000,Diesel,125,58.9,2.0
+18699, M3,2015,Automatic,42000,Petrol,300,34.0,3.0
+18700, 1 Series,2015,Manual,91000,Diesel,0,74.3,1.6
+18701, X1,2010,Automatic,51000,Diesel,200,45.6,2.0
+18702, 3 Series,2014,Automatic,48100,Diesel,160,52.3,3.0
+18703, 1 Series,2016,Manual,24380,Petrol,125,53.3,1.5
+18704, 3 Series,2019,Automatic,1049,Petrol,150,47.9,2.0
+18705, 3 Series,2019,Automatic,3551,Petrol,150,47.9,2.0
+18706, 3 Series,2019,Automatic,2784,Petrol,145,47.9,2.0
+18707, 3 Series,2019,Automatic,5634,Petrol,145,47.9,2.0
+18708, X1,2016,Automatic,13165,Diesel,145,55.4,2.0
+18709, X5,2015,Automatic,80600,Diesel,200,47.1,3.0
+18710, 2 Series,2016,Automatic,49756,Diesel,30,62.8,2.0
+18711, 1 Series,2016,Manual,44295,Diesel,20,68.9,2.0
+18712, X3,2016,Automatic,43410,Diesel,145,54.3,2.0
+18713, 5 Series,2009,Automatic,87000,Diesel,160,50.4,2.0
+18714, 1 Series,2012,Manual,47000,Diesel,135,56.5,2.0
+18715, 2 Series,2014,Automatic,58000,Petrol,265,37.2,3.0
+18716, 3 Series,2013,Automatic,31850,Petrol,145,47.9,1.6
+18717, 3 Series,2010,Automatic,41500,Petrol,200,41.5,2.0
+18718, X1,2011,Manual,70760,Diesel,160,49.6,2.0
+18719, 3 Series,2013,Automatic,66500,Diesel,160,52.3,3.0
+18720, 2 Series,2019,Automatic,13955,Petrol,145,50.4,1.5
+18721, 3 Series,2005,Automatic,63000,Diesel,260,42.2,2.0
+18722, 3 Series,2012,Automatic,52000,Diesel,160,50.4,2.0
+18723, X3,2014,Automatic,43307,Diesel,145,54.3,2.0
+18724, 1 Series,2016,Manual,54008,Diesel,30,62.8,2.0
+18725, 1 Series,2016,Manual,65435,Diesel,30,65.7,2.0
+18726, X1,2016,Automatic,34769,Diesel,125,57.6,2.0
+18727, 1 Series,2016,Manual,53177,Diesel,0,78.5,1.5
+18728, 1 Series,2016,Manual,68810,Diesel,0,83.1,1.5
+18729, 1 Series,2016,Manual,54596,Diesel,0,83.1,1.5
+18730, 3 Series,2016,Automatic,20670,Other,0,134.5,2.0
+18731, 1 Series,2016,Manual,54987,Diesel,0,83.1,1.5
+18732, 3 Series,2016,Manual,58727,Diesel,125,60.1,2.0
+18733, X1,2016,Manual,26018,Diesel,20,68.9,2.0
+18734, 3 Series,2015,Manual,39347,Diesel,125,60.1,2.0
+18735, 7 Series,2008,Automatic,70500,Diesel,325,35.3,3.0
+18736, 5 Series,2015,Automatic,106000,Diesel,160,51.4,2.0
+18737, 1 Series,2017,Manual,41435,Diesel,0,83.1,1.5
+18738, X1,2017,Automatic,60372,Diesel,125,57.6,2.0
+18739, 5 Series,2016,Automatic,67530,Diesel,30,62.8,2.0
+18740, X4,2015,Automatic,44147,Diesel,200,47.9,3.0
+18741, X3,2016,Automatic,40818,Diesel,150,54.3,2.0
+18742, 5 Series,2016,Automatic,42947,Diesel,125,60.1,2.0
+18743, 3 Series,2017,Manual,25468,Petrol,200,42.8,2.0
+18744, 1 Series,2014,Automatic,45000,Diesel,30,64.2,2.0
+18745, X1,2017,Automatic,59432,Diesel,125,57.6,2.0
